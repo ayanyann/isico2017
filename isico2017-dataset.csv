@@ -1,0 +1,1420 @@
+id,name,Title,Conference,Journal,Volume,Year,Authors,Abstract,Keywords
+541633,A-Comparative-Study-of-Software-Development-Size-Estimat_2017_Procedia-Compu.pdf,"A Comparative Study of Software Development Size Estimation
+Method: UCPabce vs Function Points",ISICO 2017,Procedia Computer Science,124,2017,"
+
+Sholig, Renny Sari Dewi, Apol Pribadi Subriadi
+
+","
+
+One of the stages in planning software development projects is to estimate the effort and cost. The good news is, there are already
+studies related to the estimated cost of software development projects whose results are close to the real cost. In this study, we
+compared two cost estimation methods which have quite small deviations, such Use Case Points - Activity Based Costing models
+(then namely UCPabc) and Function Points (FP). Some aspects that were compared are process and parameters, complexity factors,
+and deviation. The results of this research are, first, the difference of process algorithm and parameters. Secondly, there were
+differences in complexity factors, 21 factors on UCPabc model and 14 factors on FP method. So, the deviation between two
+methods of effort estimation toward actual effort was 11.9 percent using UCPabc and 27.8 percent using FP. Therefore, the UCPabc
+method is the closest method of effort estimation toward actual effort.
+","Software Cost Estimation; Cost Estimation; Function Points; Use Case Points, Activitity Based Costing
+"
+541634,A-Modification-Complexity-Factor-in-Function-Points-Method-_2017_Procedia-Co.pdf,"A Modification Complexity Factor in Function Points Method for
+Software Cost Estimation Towards Public Service Application",ISICO 2017,Procedia Computer Science,124,2017,"
+
+Renny Sari Dewi, Apol Pribadi Subriadi, Sholiq
+
+","
+Lately, the stages of planning software development projects have begun to consider the scientific side. As an intangible outcome,
+the budgeting must also be done in a transparent and accountable manner. The authors use Function Points (FP) method approach
+on the basis of 4 main reasons for estimating the effort and cost of software development (4 public service applications as research
+object). In this study, there are two core phases, first, elaborating complexity factors based on other method references (i.e Use
+Case Points) and mapping of non-functional requirements on Term of Reference. Furthermore, the second phase is to calculate and
+compare the estimated effort and cost if the original FP method before and after modified on the complexity factor. We conclude
+there is a difference of 7.19 percent (equivalent to IDR 13,567,631) between FP method calculations using and not using modified
+complexity adjustment factors.
+","Software Estimation; Software Size; Software Cost: Function Points; Public Service Application
+
+"
+541635,A-Hybrid-Cuckoo-Optimization-and-Harmony-Search-Algorit_2017_Procedia-Comput.pdf,"A Hybrid Cuckoo Optimization and Harmony Search Algorithm for
+Software Cost Estimation",ISICO 2017,Procedia Computer Science,124,2017,"
+Alifia Puspaningrum, Riyanarto Sarno","
+Nowadays, software effort and time estimation becomes a substantial factor in software engineering community. Accurate
+estimation can enhances performance in managing the project schedule, human resource allocation, cost estimation, etc.
+Constructive Cost Model (COCOMO) II is commonly used model of software estimation influenced by four coefficients. The
+optimal coeffiecients will produce optimal model in estimating effort and time development. To overcome that problem, this
+paper proposed a hybrid model of cuckoo search and harmony search algorithm for optimizing four coefficients of COCOMO-II
+to get optimal estimation. The proposed approach is applied on NASA 93 dataset and evaluated by using Magnitude of Relative
+Error (MRE) and Magnitude of Relative Error (MMRE). Experimental results show that the proposed method is more effective in
+estimating effort and time development of the software project than COCOMO-II and cuckoo search algorithm.",COCOMO II Model; Effort Estimation; Time Development Estimation; Cuckoo Search; Harmony Search; Hybrid Optimization Parameter
+541636,A-Framework-for-Knowledge-Based-Software-Service-Supply-Ch_2017_Procedia-Com.pdf,"A Framework for Knowledge Based Software Service Supply Chain
+(SSSC): A Comparative Analysis with Existing Frameworks",ISICO 2017,Procedia Computer Science,124,2017,"
+Ali Baydoun, Jamal El-Den
+","
+Knowledge management adoption in the supply chain (SC) is at its infancy and related scholarly research is relatively scarce. The
+main difficulties are in figuring out how to combine knowledge management concepts with the SC development process, to
+improve the overall steps, performance and productivity of the SC. The purpose of this paper is to test and analyse the existing
+knowledge based SCs frameworks in the literature (including manufacturing, service and software SCs), and verify how they
+integrate with the knowledge management concepts, taking into consideration some parameters including lessons learned, etc.
+which we believe, hinder such knowledge process in the existing frameworks. To come up with the proposed framework, we
+conducted an extensive research on the existing frameworks to identify how they handle and transfer knowledge during the
+development process of the SC and how they integrate the knowledge management concepts with their frameworks. Few SC
+frameworks were tested to figure out their efficiency and effectiveness. Finally, after detailed comparative analysis and testing,
+the research suggests that the proposed framework adds value to existing research and could be adopted by SC participants as a
+useful knowledge based framework which could increase the SC overall speed, performance and productivity. The proposed
+framework consists of parameters which should be introduced for more effective SSSC operations, while the absence of major
+parameters (identified in this paper) makes a framework less efficient.
+",Software Service Supply Chain (SSSC); Knowledge Management (KM); Service Supply Chain (SSC)
+541637,A-performance-evaluation-for-assessing-registered_2017_Procedia-Computer-Sci.pdf,"A performance evaluation for assessing registered websites
+
+",ISICO 2017,Procedia Computer Science,124,2017,"Nur Aini Rakhmawati, Valliant Ferlyando, Febriliyan Samopa, Hanim Maria Astuti","A list of registered websites under a domain is required to be evaluated to assess the quality of the websites. In this paper, we
+present a monitoring system for assessing websites in our university. In order to build the system, a survey was carried out to
+determine a list of the weight of a metric. The weight is calculated by using an Analytic Hierarchy Process. There are 13 metrics
+for evaluating websites. As a result, a website rank is presented based on the metrics calculation. Three clusters of websites are
+produced to group the registered websites. Based on the web clustering, 54% of websites are classified as a good website.","Assessment, Analytic Hierarchy Process, Website"
+541638,A-New-Approach-of-Indonesian-University-Webometrics-Ran_2017_Procedia-Comput.pdf,"A New Approach of Indonesian University Webometrics Ranking
+Using Entropy and PROMETHEE II",ISICO 2017,Procedia Computer Science,124,2017,"
+Handaru Jati, Dhanapal Durai Dominic
+","
+The webometric ranking system is currently one of the most widely used methods to rank website quality including for university
+websites. It uses pre-determined weights for the criteria assessed in these method; therefore, raised a question whether the pre-
+determined weigh is objective. Entropy method provides a more objective weighing method criterion. This study aims to
+compare the use of the entropy method followed by PROMETHEE II methods to evaluate 27 Indonesian university websites.
+The entropy method assesses four indicators: visibility, presence, openness and excellence of the website performance. The
+PROMETHEE II method was conducted to provide a complete ranking of university websites from the best to the worst, based
+on a pair-wise comparison of alternatives along each recognized criterion. The entropy method resulted in 0,3; 0,17:0,23; and
+0,27 for visibility, presence, openness and excellence weights, respectively. The website ranking using PROMETHEE II method
+was not significantly different from the ranking generated from the webometric ranking system. To conclude, the use of entropy
+as a more objective method followed by PROMETHEE II is a reasonable alternative of the webometric system for ranking
+university websites, at least in the Indonesian context.
+","webometrics; websites, Entropy; Promethee"
+541639,A-Review-on-Cloud-Computing-Acceptance-Factors_2017_Procedia-Computer-Scienc.pdf,"A Review on Cloud Computing Acceptance Factors
+",ISICO 2017,Procedia Computer Science,124,2017,"Mohd Talmizie Amron, Roslina Ibrahim, Suriayati Chuprat
+","
+Cloud computing technology is regarded as a highly useful application for organization duc to advantages such as long-term cost
+saving, easy access of data at any given time and economically. In fact, there are lots of free cloud storage provider these days
+whereby user can easily store and shared their organizational data easily and efficiently. Both government and private sectors are
+looking into optimizing their cloud data storage. However, some of them are still in the early implementation phase with issues
+on both technological and human factors need to be properly taken care of to ensure its success. In the case of Malaysia our
+Government highly encouraged the use of cloud computing technology. Given that it is in the carly implementation phase it is
+important to understand the factors that contribute to the use of cloud computing. This study, review studies done in health.
+Higher learning institution and public sector. It was found that the most contributing factors for use or cloud computing are
+technology readiness, human readiness, organization support, environment and, security and privacy. We hope that this study will
+help strengthen our knowledge and readiness in implementation of cloud computing.
+","Cloud Computing; Success Factor, Success Model; Health Care; Higher Education; Public Sector"
+541640,A-Study-on-Intrusion-Detection-Using-Centroid-Based_2017_Procedia-Computer-S.pdf,"A Study on Intrusion Detection Using Centroid-Based Classification
+",ISICO 2017,Procedia Computer Science,124,2017,"Bambang Setiawan, Supeno Dyjanali, Tohari Ahmad
+","
+The ultimate goal of intrusion detection system (IDS) development is to accomplish the best possible accuracy for detection attacks.
+Various hybrid machine learning techniques were developed for IDS. The centroid-based classification method is a particular
+hybrid learning approach that highly efficient in the training and classification stages. This paper studies 60 associated papers in
+the period between 2010 and 2016 concentrating on developing IDS using hybrid classifiers, which 11 papers used centroid-based
+classification. Similar studies are compared by the algorithm used in hybrid machine learning, the dataset used, the establishment
+of the representative feature, the stages of pre-processing data, and evaluation methods considered. The accomplishments and
+limitations in developing IDSs using hybrid machine learning and centroid-based classification were presented and discussed.
+Several future research opportunities were provided that may encourage interested researchers to work in this area.
+",Intrusion Detection System; Hybrid Classifiers; Centroid-Based Classification; Representative Feature
+541641,A-Study-on-the-Effectiveness-of-Tree-Maps-as-Tree-Vis_2017_Procedia-Computer.pdf,"A Study on the Effectiveness of Tree-Maps as Tree Visualization
+Techniques",ISICO 2017,Procedia Computer Science,124,2017,"
+Lim Kian Long, Lim Chien Hui, Gim Yeong Fook, Wan Mohd Nazmee Wan Zainon*
+","
+Tree Structure visualization techniques are one of the important techniques to support the analysis of large hierarchical structure
+data. They are typically used as tree structure node-link diagram. However, it is difficult to visualize the content of directories
+when there are too many child nodes. In this paper, a study on the effectiveness of the tree-maps as tree structure visualization
+will be presented. Tree-maps are always considered as one of the interesting topic of research in HCI. Therefore, in this paper we
+will discuss about applying various types of Tree-maps as one of the visualization techniques. First, we will look into current
+problem faced by Tree structured node-link diagram. We will also look into four main types of tree-maps such as original tree-
+maps, Circular Tree-maps, Cushion Tree-maps and 3D Tree-maps. Finally, the effectiveness of these tree-maps to visualize the
+hierarchy of the directory will be investigated by conducting a simple user experiments.","Tree Structure Visualization; Tree-Maps; Circular Tree-Maps; Cushion Tree-Maps, 3D Tree-Maps"
+541642,Advanced-Traveler-Information-System--Itinerary-Optimization_2017_Procedia-C.pdf,"Advanced Traveler Information System: Itinerary Optimization as an
+Orienteering Problem Using Iterative Local Search-Hill Climbing
+",ISICO 2017,Procedia Computer Science,124,2017,"Jockey Satria Wijaya, Wiwik Anggraeni, Ahmad Muklason, Faizal Mahananto, Edwin Riksakomara, Arif Djunaidy","
+Traffic congestion is a problem that becomes government concem in many big cities like Surabaya. Some initiatives have been
+carried out by the government to decrease the intensity of traffic congestion, ranging from various policy like special lane for
+motorcycle, odd ??? even license plate, etc. However, it is yet to be successful to decrease the heavy traffic in many big cities in
+Indonesia. The right solution tends to encourage people to use public transport instead of private cars. Within the framework of
+Intelligent Transport System, this paper proposes an advanced traveller information system with itinerary optimisation by
+Angkot, a common public transport mode in Indonesia. The itinerary optimisation is modelled as an orienteering problem and is
+solved using iterative local search ??? hill climbing algorithm. The experiment results show that generally the proposed algorithm
+could solve the problem fast and effectively. In addition to propose the initial algorithm, the main contribution of this paper is a
+new dataset for orienteering problem that may encourage researcher to come up with more sophisticated algorithm. Eventually,
+the proposed system could encourage more people to use public transport.
+",Orienteering Problem; Iterative Local Search; Intelligent Transport System
+541643,An-Adjustable-Autonomy-Management-Module-for-Multi-_2017_Procedia-Computer-S.pdf,"An Adjustable Autonomy Management Module for
+Multi-agent Systems",ISICO 2017,Procedia Computer Science,124,2017,"
+Salama A. Mostafa4.*, Aida Mustapha??, Mohd Sharifuddin Ahmadb, Moamin A Mahmoudb","
+The design and development of software agents that perform adjustable autonomous actions in dynamic environments is a
+challenging research issue. Adjustable autonomous agents operate according to a spectrum of autonomy states. The autonomy
+states are dynamically adjusted to improve the agents??? performance and avoid autonomy surprises. For instance, the agents need to
+be guided or improvise when they encounter unplanned events. In this paper, we propose an Adjustable Autonomy Management
+(AAM) module for multi-agent systems. We integrate the AAM module within a BDI agent???s architecture to form an adjustable
+autonomous agent. The AAM module enables the agent to internally adjust its autonomy and handles external autonomy
+adjustments. We apply the agents in an autonomous Unmanned Aerial Vehicle (UAV) system. We test the UAV in a dynamic
+environment via experimenting acrial surveillance missions. The test results show that the agent-based UAV system successfully
+operates in the dynamic environment and performs the aerial surveillance missions. Subsequently, the AAM module is able to
+manage agents??? autonomy, reduce human workload and reduce adjustable autonomy disturbance.
+",software agent; multi-agent system; adjustable autonomy; human-agent interaction; unmanned aerial vehicle.
+541644,Analysis-on-Factors-Influencing-Textile-Cyberpreneur-s-In_2017_Procedia-Comp.pdf,"Analysis on Factors Influencing Textile Cyberpreneurs Intention to
+Adopt Cloud-Based m-Retail Application",ISICO 2017,Procedia Computer Science,124,2017,"
+Wan Safra Diyana Wan Abdul Ghani, Nik Zulkarnaen Khidzir, Tan Tse Guan,
+Mohammad Ismail","
+In this era of smartphone utilization, business owners such as textile cyberpreneurs may conduct mobile retail (m-
+retail) via cloud-based m-retail application. As cloud and e-commerce services are still lowly adopted by Malaysian
+business owners, further investigation must be done in examining their adoption intention. Normally for
+businessmen, the technology utilization may associate with tasks which are required to be performed. Moreover,
+their own behaviour may influence the usage intention. Hence, this study intends to investigate the influences of
+task-technology fit (TTF) model and theory of planned behaviour (TPB) towards textile cyberpreneur???s intention to
+adopt cloud-based m-retail application. 348 respondents have participated in this study and analysis of findings
+have shown that task-technology fit, attitude, subjective norm and perceived behavioural control have significant
+positive effects on textile cyberpreneur???s behavioural intention. Task-technology fit construct has also been found
+as the most influential factor towards adoption intention. The practical implications and future recommendations
+are presented in this study for additional knowledge.",Mobile Retail; Task-Technology Fit; Theory of Planned Behavior; Cloud-Based Mobile Application; Cyberpreneurship
+541645,An-Overview-of-Software-Functionality-Service--A-Syst_2017_Procedia-Computer.pdf,"An Overview of Software Functionality Service: A Systematic
+Literature Review",ISICO 2017,Procedia Computer Science,124,2017,"
+Masrina A. Salleh, Mahadi Bahari, Nor Hidayati Zakaria
+","
+
+This study focuses in contributing a literature on software functionality service area. We aim to provide an overview of software
+functionality service related to its research activity, investigated the major themes and identified the focus on its sub-
+characteristics addressed. In doing this, we employed a Systematic Literature Review (SLR) approach by reviewing all relevant
+articles from four online databases (i.c., IEEE, Springer, ScienceDirect and EmaraldInsight) and finally identified only 79
+relevant articles to our research questions. We categorized the articles into its major themes discussed and its sub-characteristics
+addressed. It is found that there are increased of researched related to software functionality service for the last five years mainly
+in functionality service development while there is still lack of research coverage on functional compliance sub-characteristics.
+Future work should be included of reviewing a greater number of articles from more various types of journal and workshop.
+",Functionality Service; Software Functionality Quality; Systematic Literature Review; Okoli Guideline
+541646,Analyzing-the-Effectiveness-of-Public-e-Marketplaces-for_2017_Procedia-Compu.pdf,"Analyzing the Effectiveness of Public e-Marketplaces for Selling
+Apparel Products in Indonesia",ISICO 2017,Procedia Computer Science,124,2017,"
+Amna Shifia Nisafani, Arif Wibisono, Muchammad Haidar Tegar Revaldo
+","
+Public e-marketplace is a mean in selling products online. Unfortunately, there is limited understanding which public e-
+marketplace is more effective in selling specific products. This study examines the relationships concerning traffic and selling
+performance of public e-marketplaces. More specifically we examine for apparel products. We compare the performance of three
+public e-marketplaces in Indonesia namely Tokopedia, Bukalapak, and Shopee. There are three performance indicators to assess
+that are total sales volume, total sales amount, and total sales variances. The results indicate that Tokopedia as the highest traffic
+public e-marketplaces exceeds the other two public e-marketplaces. In addition, Shopee as the lowest traffic public e-marketplace
+proves more effectives compare to the second highest, Bukalapak.
+",e-Business; e-Commerce; Public e-Marketplace; Channel Analysis; Customer Relationship Management
+541647,APEX-System--An-Integration-of-Management-Informat_2017_Procedia-Computer-Sc.pdf,"APEX System: An Integration of Management Information Concept
+",ISICO 2017,Procedia Computer Science,124,2017,"Aries Muftie, Djoko Budhi Setyawan, Supardi, Iwan Fuad, Andre Parvian Aristio","
+Nowadays an information and communication technologies (ICTs) have become a necessity in everyday life. However, not all
+technological advances are in place and help the problems that occur in rural area such as the lack of ease in making payments
+between cooperatives in the rural area especially if any people in one cooperatives want to pay using their saving to another person
+who has a saving in different cooperatives, the difficulty of small medium enterprises in obtaining loans due to unavailability of
+data, the unavailability of core banking system for cooperatives that can regulate their financial transactions. Traditional methods
+are ineffective because of possible data incompatibility, a security issues, data integration issues, and the unavailability of data
+storage of local program. This paper will provide a technological concept that can help solve transactional problems in the rural
+area community, APEX System, an integration of management information concept.
+","Integration of Management Information; Core System; Small Medium Enterprise; Technology; Rural Area
+"
+541648,Analysis-the-Performance-of-Vehicles-Ad-Hoc-Net_2017_Procedia-Computer-Scien.pdf,"Analysis the Performance of Vehicles Ad Hoc Network
+",ISICO 2017,Procedia Computer Science,124,2017,"Saed Tarapiah, Kahtan Aziz, Shadi Atalla
+","
+VANET (Vehicular Ad-hoc Network) is an intelligent network technology in wireless communication where the vehicles act as
+mobile nodes to share data without any central access point for a safety issue. The vehicles send some information about road
+status and traffic. Due to recent growth of software technology, it becomes necessary to make a step toward using software to
+check on this network before the implementation. Simulation tools give us a comprehensive study of the network before applying
+it in a real environment. There are many network simulators which has their own features to distinguish it from other. We should
+focus on choosing the best one that gives the best results. NS2 is the most common simulator tool, in this project we used NS2 to
+design the network, which made communication within the network with different routing protocols. We compare many different
+routing protocols (AODV, AOMDV, DSDV and DSR) based on the various common metrics, throughput, end to end delay, and
+packet delivery ratio by varying the number of mobile vehicles while applying CBR traffic. The comparison has been done by
+using simulation tool NS2. To build the network scenario more like a real environment, different mobility models will be
+considered. Two type of mobility patterns were used in our project. Studying about different routing protocols give us an idea of
+using the best protocol in different cases under various parameters of a network. We wrote a TCL Script on NS2 to evaluate the
+behavior of routing protocols that used in VANET network. After executing the simulation in different mobility models, we
+realized that AODV has the best performance at both and preferable for the large and small environment of network, but it
+consumes power during transmission. AOMDV gives middle results in all parameters. The large end to end delay appears in DSR
+protocol However DNSDV has lower throushnit and nacket delivery ration than other routines nrotocolse with 9 different number of",VANET; NS2; Network Performance
+541649,Application-of-Killer-Whale-Algorithm-in-ASP-EOR-O_2017_Procedia-Computer-Sc.pdf,"Application of Killer Whale Algorithm in ASP EOR Optimization
+",ISICO 2017,Procedia Computer Science,124,2017,"Totok R. Biyanto, Matradji, Sawal, Ahmad H. Rahman, Arfiq I. Abdillah,
+Titania N. Bethiana, Sonny Irawan
+","
+Enhanced Oil Recovery (EOR) is utilized to increase oil production after primary and secondary methods. EOR is classified into
+three main categories i.e. thermal recovery, chemical flooding and miscible flooding. Alkaline Surfactant Polymer (ASP) EOR is
+a method of chemical flooding in which the increase of oil recovery is ranging from 19% to 34% of original oil in place (OOIP).
+In order to obtain optimal results of ASP EOR needs to consider several parameters i.e. the concentration of ASP, ASP material
+procurement costs, the injection pressure and mass flow rate of injection. Beggs-Brill method is used to model the pressure drop in
+the injection well and production well. The mean error of Beggs-Brill method to PIPESIM simulation result is 0.5076%. Meanwhile
+the modelling of reservoir pressure conducted using Darcy equation shows that the mean error of Darcy equation model to
+COMSOL Multiphysics simulation result is 3.378x10??%. The optimization results using Killer Whale Algorithm (K WA) exhibits
+the net profit of ASP EOR increases up to 87.72% or net profit can be optimized from 9586.40 USD/day to 17995.19 USD/day.
+","
+ASP EOR; Killer Whale Algorithm; Optimization
+"
+541650,Beyond-Organizational-Motives-of-e-Government-Adoption--Th_2017_Procedia-Com.pdf,"Beyond Organizational Motives of e-Government Adoption: The
+Case of e-Voting Initiative in Indonesian Villages",ISICO 2017,Procedia Computer Science,124,2017,"Manik Hapsara, Ahmed Imran, Timothy Turner
+","
+
+Motive is an important underlying reason an organization engages in a particular behavior, which includes initiating a particular
+information systems adoption. Adoption motives, however, are situational, urging motivational studies to be contingent on the
+context. The purposes of this paper are therefore twofold: (1) reflecting on the case of Indonesian e-voting initiative, to examine
+the local government???s motives behind e-government adoption; (2) to identify emerging themes that might have influenced the
+process of e-voting adoption in several Indonesian villages. Qualitative data were collected from five government leaders at both
+municipal and village levels in a municipality that have previously conducted village e-voting elections. This study found that
+performance-related rationalities, i.c. cost-savings, reducing service delivery-time, are the main drives for e-voting adoption in this
+case. Although instances of motives belonging to technological and strategic clusters have also been recorded, none of the leaders
+responded to operation-related motives. This might be due to the simplistic interpretation of e-voting as merely a replacement for
+paper-ballots, while its broader implication to democratic values and election best practices have been largely ignored. Moreover,
+it was evident from the study that the decision to adopt voting technology in this case has been significantly influenced by political
+interests, where strong cases of leadership further accelerated the adoption process. The strong determination exhibited by higher
+level leaders has put significant pressures on the lower level authorities to implement e-voting, which might have conflicted with
+their own organizational strategy, socio-cultural norms, and citizen preparedness. This study is important to identify context-based
+rationales behind e-voting initiatives in Indonesia and the results are relevant to assist Indonesian government in the development
+of other e-government strategy in the future. This paper further emphasizes for a broader strategy which takes account of the risks
+of imnairine democratic values and seneratine conflicts during electoral nrocesccec",e-Government; e-Voting; Technology Adoption; Adoption Motives; Indonesia; Developing Country
+541651,Barriers-to-Electronic-Health-Record-System-Implementation_2017_Procedia-Com.pdf,"Barriers to Electronic Health Record System Implementation and
+Information Systems Resources: A Structured Review",ISICO 2017,Procedia Computer Science,124,2017,"
+Jaillah Mae Gesulga, Almarie Berjame, Kristelle Sheen Moquiala, Adrian Galido
+","
+Electronic health record systems have the potential to improve the quality of health services primarily through the availability of
+health information. Implementing EHR systems in healthcare facilities has been met with an alarming rate of failure. This paper
+reviews the literature identifying barriers to implement an EHR system. Identifying the barriers will be a precursor to assessing
+readiness for such a system. A structured literature review was done in accord with the PRISMA guidelines. The barriers
+identified were categorized into the information systems resources. The review suggests that people resource (user resistance and
+lack of skills) and procedure resource (concern for return on investment and lack of administrative and policy support) are the
+primary barriers to overcome. Further studies are directed to examine the barriers in detail and recognize how to address said
+barriers.
+",electronic health record; information system resource; barriers
+541652,Community-Detection-On-Citation-Network-Of-DBLP-Data-Sa_2017_Procedia-Comput.pdf,"Community Detection On Citation Network Of DBLP Data Sample
+Set Using LinkRank Algorithm
+",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Satrio Baskoro Yudhoatmojo, Muhammad Arvin Samuar
+","
+This paper describes the application of a community detection algorithm, namely LinkRank algorithm, on a citation network.
+Community detection is a task in network analysis which aims to find sets of tightly connected nodes that are loosely connected with
+other nodes outside of those sets. In our study, we focused on a citation network which depicts relationships between cited papers
+and the papers which cite those papers. The objectives of our study are to identify communities of papers based on the citation
+relationships and analyze the similarities of topics within each community. The approach of our study to reach the objectives
+is by applying LinkRank algorithm to a citation network. LinkRank algorithm is chosen because it can be applied to a directed
+network where other algorithms that we have surveyed can only be used on undirected network. The citation network that we used
+in our study is from Aminer website. In applying the algorithm, we had to port the original source code which is written in C
+programming language into Python programming language for our convenience in doing the experiment. The result shows that the
+algorithm able to detect 10,442 communities from 188,514 nodes. Once the communities have been detected, we sampled top three
+communities (the ones with the largest number of members) and took the top 10 nodes with the highest PageRank score in each of
+those communities. The samples show that most of the nodes have similar topic, but there are still some nodes with different topics
+mixed inside the same community. We found the ratio between nodes with similar and different topics to be 7 to 3, that is 70% of
+the nodes have similar topic while the other 30% have different topics. Thus, the homophily of each community does not reach
+100%. Nevertheless, our study confirms that LinkRank algorithm can be used for community detection on directed network.
+",Citation Network; Community Detection; Complex Network; Directed Network; LinkRank Algorithm; Social Network Analysis
+541654,Challenges-and-Solutions-for-Applications-and-Technolo_2017_Procedia-Compute.pdf,"Challenges and Solutions for Applications and Technologies in the
+Internet of Things",ISICO 2017,Procedia Computer Science,124,2017,"
+Saad Albishi, Ben Soh, Azmat Ullah, Fahad Algarni
+","
+It is undeniable that the Internet of Things is an emerging research area encouraging numerous exciting solutions to many
+problems encountered in numerous domains. The aim of this paper is to study the literature review of electronics applications in
+the context of the Internet of Things??? challenges and solutions for emerging sensors and electronics applications. The analysis
+topics include: a review of electronics applications in the Internet of Things (IoT); what is the IoT; innovation directions of the
+IoT: IoT applications in the context of electronics; the IoT and future Internet technologies.
+
+","Internet of Things (IoT); IoT Innovation; Challenges; IoT direction
+"
+541655,Cross-Site-Scripting--Removing-Approaches-in-Web-A_2017_Procedia-Computer-Sc.pdf,"Cross Site Scripting: Removing Approaches in Web Application
+",ISICO 2017,Procedia Computer Science,124,2017,"Abdalla Wasef Marashdih and Zarul Fitri Zaaba
+","
+By reviewing the literature pertaining to XSS vulnerability, it has been found that many investigations have directed
+their focus only on XSS vulnerability detection, but not many studies have concentrated on removing XSS
+vulnerability. While PHP is the most common web technologies to build web application, this literature paper
+describes the gap that still exists on removing XSS vulnerability in PHP web application. This paper explains the
+presented methods to remove XSS vulnerability and presents the tools that are used to remove vulnerability of XSS
+from the PHP source code. There is no specific solution that can efficiently mitigate XSS incursions. More research
+is required in the field of vulnerability elimination from the PHP web application source code before deployment.
+","Software Security; Web Application Security; Security Vulnerability; Cross Site Scripting; XSS; Vulnerability Removal
+"
+541656,Curriculum-Assessment-of-Higher-Educational-Institution_2017_Procedia-Comput.pdf,"Curriculum Assessment of Higher Educational Institution Using
+Aggregate Profile Clustering",ISICO 2017,Procedia Computer Science,124,2017,"
+Satrio Adi Priyambada, Mahendrawathi ER, Bernardo Nugroho Yahya?
+","Curriculum assessment commonly takes place on the success story of the students during the education period using some ways
+such as questionnaires, interviews, etc. The existing approaches frequently used are inadequate to measure the effectiveness of the
+curriculum as the educational process guideline. Curriculum mining aimed at investigating the actual curriculum model by
+constructing the model from the students??? academic results. However, the discrepancy measurement between the observed behavior
+of students and the standard curriculum model remains some challenges. This study proposes a methodology to assess the
+curriculum based on the students??? behavior. First, aggregate profile clustering is used to categorize the students according to their
+learning paths. Second, sequence mining approach is applied to assess the sequence of learning path in conformity with the prior
+curriculum guideline. The study utilized Information Systems (IS) students??? data to test the effectivity of the methodology. Results
+from the implementation shows that the IS students can be grouped into three clusters that have different characteristics with respect
+to their performance and learning behavior. It is also found that students with relatively high GPA tend to take the course earlier
+than the curriculum design. Meanwhile, students with relatively low GPA finish their study longer than eight semesters due to
+registering many courses after the designated semester. The results can be analyzed further to detect bottleneck and determine
+possible improvement on the curriculum.
+","Educational Data Mining; Clustering; Students??? Learning Path; Curriculum
+"
+541657,Coupled-Hidden-Markov-Model-for-Process-Discovery-of-Non_2017_Procedia-Compu.pdf,"Coupled Hidden Markov Model for Process Discovery of Non-Free
+Choice and Invisible Prime Tasks
+",ISICO 2017,Procedia Computer Science,124,2017,"Riyanarto Sarno, Kelly R. Sungkono
+","
+With increasing numbers and complexity of processes stored in the event log on a system, a solution to analyze these processes
+more easily is a formation of the process model. There are algorithms of process discovery that offered ways to formed process
+models based on data in the event logs. During the forming of process models, several problems arise, such as detecting non-free
+choice and invisible prime tasks. This research offers a method that utilizes Coupled Hidden Markov Model to modeling processes
+with non-free choice and invisible prime tasks in incomplete event log. This method was compared with Alpha$ algorithm to
+evaluate the quality of the method. The evaluation proves that the method of this research can depict process model containing
+non-free choice and invisible prime tasks. This output of the evaluation also indicates that a process model produced by the method
+with dealy Coupled Hidden Markov Model has higher fitness and precision than the model produced by Alpha$ algorithm.
+","coupled hidden markov model ; invisible prime tasks ; non-free choice ; process discovery
+"
+541658,Cyclomatic-Complexity-for-Determining-Product-Complex_2017_Procedia-Computer.pdf,"Cyclomatic Complexity for Determining Product Complexity Level
+in COCOMO II",ISICO 2017,Procedia Computer Science,124,2017,"
+Muhammad Asep Subandri, Riyanarto Sarno
+","
+Cost Construction Model (COCOMO) is an algorithmic software development cost estimation model, which requires accurate
+input values for each attribute. Input misjudgment on an attribute will have a great impact on the estimated effort. One of the
+attributes in COCOMO II is product complexity. Currently, the level of product complexity is assessed subjectively by an expert.
+This approach tends to be inaccurate because it is influenced by emotions, opinions and experiences. This paper proposes
+Cyclometer, a new approach based on the cyclomatic complexity metric to measure the product complexity level objectively. A
+comparison study was carried out and showed that the results comply with the expert judgments as indicated by moderate kappa
+statistic values.
+","Software Cost Estimation; COCOMO; Product Complexity Rating; Cyclomatic Complexity
+"
+541659,Design-and-Development-of-Backend-Application-for-Public-_2017_Procedia-Comp.pdf,"Design and Development of Backend Application for Public
+Complaint Systems Using Microservice Spring Boot",ISICO 2017,Procedia Computer Science,124,2017,"
+Hatma Suryotrisongko, Dedy Puji Jayanto, Aris Tjahyanto
+","
+E-government is an implementation of ICT (information and communication technologies) in the field of governance in
+improving services to the public by a government or public sector. For example, Smart City, online licensing services,
+community complaint services, etc. The purpose of this research is to develop public complaint service application based on web
+application which uses springboot microservice architecture. Microservice architecture was used to divide the application
+functionality into many parts, or many micro-services based on business process and the services are interconnected, becoming a
+single application with a complete business process. One of the advantages of this architecture is that more microservice can be
+added without affecting others. The application was deployed in a cloud environment that can be accessed through a browser.
+","e-Government; Microservices; Complaint Services; Spring Boot
+"
+541660,Data-Warehouse-with-Big-Data-Technology-for-Higher_2017_Procedia-Computer-Sc.pdf,"Data Warehouse with Big Data Technology for Higher Education
+",ISICO 2017,Procedia Computer Scienc,124,2017,"Leo Willyanto Santoso, Yulia
+","Nowadays, data warehouse tools and technologies cannot handle the load and analytic process of data into meaningful information
+for top management. Big data technology should be implemented to extend the existing data warehouse solutions. Universities
+already collect vast amounts of data so the academic data of university has been growing significantly and become a big academic
+data. These datasets are rich and growing. University???s top-level management needs tools to produce information from the records.
+The generated information is expected to support the decision-making process of top-level management. This paper explores how
+big data technology could be implemented with data warehouse to support decision making process. In this framework, we propose
+Hadoop as big data analytic tools to be implemented for data ingestion/staging. The paper concludes by outlining future directions
+relating to the development and implementation of an institutional project on Big Data.
+","Data Warehouse; Big Data; Academic; Hadoop; Higher Education; Analysis
+"
+541661,Design-and-Implementation-of-Real-Time-Mobile-based-Wat_2017_Procedia-Comput.pdf,"Design and Implementation of Real-Time Mobile-based Water
+Temperature Monitoring System",ISICO 2017,Procedia Computer Science,124,2017,"
+Paul B. Bokingkito Jr, Orven E. Llantos
+","
+In this age of international trade and competition, the aquaculture industry needs to plan and implement a technology that will
+address issues concerning global food security. In modern aquaculture management, a remote water quality monitoring and
+computer-controlled intensive culture is the future trend in aquaculture. The objective of this research is to design and develop a
+real-time mobile-based water temperature monitoring system capable of decreasing the reliance on manpower at the monitoring
+site to reduce the cost and to assess fish production cycle and fish grow-out system. The system implementation resulted in a
+monitoring system that collects the current water temperature from the core-controller in real-time. Also, the system provides and
+displays information that includes normal range, maximum, minimum, average and findings of the collected temperatures. The
+results obtained in this study has shown the ability of data acquisition in the remote and real-time detection of water temperature
+accurately and efficiently. It provides decision support to help and guide fisher folks in avoiding distress to fish and obtaining the
+optimum water temperature range.
+","water temperature monitoring; cloud computing; fog computing; RESTful API; mobile; IOT
+"
+541662,Designing-an-Effective-Collaboration-using-Information-T_2017_Procedia-Compu.pdf,"Designing an Effective Collaboration using Information Technology
+Towards World Class University",ISICO 2017,Procedia Computer Science,124,2017,"
+Linda Salma Angreani, Annas Vijaya
+","
+One of the challenges in achieving success in the global competition for the government is to set up higher education institutions
+to be able to become a World Class University (WCU). It is believed that to address this challenge they need effective
+collaboration for both internally and externally where information technology (IT) is set as an enabler. However, in fact, this
+research has found that it is still not utilized effectively although the need for the collaboration has clearly stated in the
+organization???s strategic direction. This paper aims to increase such an effective collaboration model for higher education in
+Indonesia towards WCU. By using one of reputable state Islamic universities in Indonesia as research object, UIN Maliki
+Malang, which consist of more than 17,000 students and staffs, this paper proposing a collaboration architecture model equipped
+with suitable supporting tools. As approaching methods, we use business model design and transformation by mapping study
+object???s business strategic programs into proven collaborative model and their strategic planning of IS/IT. The result of the
+analysis conducted in the research shows that the majority of the strategic direction of UIN Maliki Malang requires collaboration
+using information technology both internally and externally. Additionally, UIN Maliki Malang also has facilitated by several
+collaborations tools within the organization. However, they still need a formal collaboration architecture model to achieve their
+strategic direction goals effectively. Thus, through the achievement of collaboration effectiveness using information technology,
+the achievement of a world class university can be realized.","Collaboration; Information Technology; World Class University
+"
+541663,Determinants-of-CAATT-acceptance--Insights-from-public_2017_Procedia-Compute.pdf,"Determinants of CAATT acceptance: Insights from public
+accounting firms in Indonesia",ISICO 2017,Procedia Computer Science,124,2017,"
+Muhammad Rifki Shihab, Nina Meilatinova, Achmad Nizar Hidayanto, Herkules
+","
+This paper was aimed to understand the antecedents of CAATT adoption by external auditors in public accounting firms. The
+underlying research model was adapted from Technology Adoption Model (TAM) with the inclusion of external variables. A
+total of eleven factors were tested as determinants of CAATT???s acceptance. A total of 141 sample data were gathered from
+various public accounting firms who avidly use CAATT in the greater Jakarta region. The data was then analyzed statistically
+using Partial Least Square (PLS) Structural Equational Modeling (SEM) techniques. The results provided empirical evidences
+than CAATT adoption was directly influenced by behavioral intention, perceived usefulness and perceived ease of use. External
+variables that were deemed as antecedents of perceived usefulness include output quality and result demonstrability. Finally,
+perceived ease of use was influenced by technological complexity and computer self-efficacy.
+","CAATT; PLS; SEM; Audit; Technology Acceptance; TAM;
+"
+541664,Developing-an-Information-Security-Policy--A-Case-S_2017_Procedia-Computer-S.pdf,"Developing an Information Security Policy: A Case Study Approach
+",ISICO 2017,Procedia Computer Science,124,2017,Fayez Hussain Algahtani,"Organisational information and data must be protected from active and passive attacks and secured from illegal access, unwanted
+interruption, unauthorised alteration or annihilation. Many organisations fall victim to such attacks due to weak information
+security policies (ISPs). Also, disrupting these IS policies by IT users makes organisations under information security threats.
+This study explored the implementation of ISPs within a large organisation to evaluate policy adequacy and to determine user
+awareness and compliance with such policies. Employing a case study approach, this research found that the information security
+focus areas included in this organisation ISPs are password management; use of email, the Internet and social networking sites;
+mobile computing; and information handling. However, the maturity levels of these elements varied among focus areas due to a
+lack of ISP awareness and compliance among users.
+","Information Security; Information Security Policy; IS Awareness; ISP Maturity; Case Study.
+"
+541665,Developing-Salesperson-Performance-Indicators-on-Inst_2017_Procedia-Computer.pdf,"Developing Salesperson Performance Indicators on Instant
+Messaging Platform",ISICO 2017,Procedia Computer Science,124,2017,"
+Amna Shifia Nisafani, Arif Wibisono, Safrina Kharisma Imandani, Radityo Prasetianto Wibowo","
+The advancement of information technology has made hyper channels for sales initiatives possible. One emerging channel is instant
+messaging. Instant messaging (such as mobile chatting) is a prevalent sales channel for today online shop. There are two
+fundamental reasons for the adoption: 1) easy to install 2) high customer personalization. Unfortunately, the asynchronous natures
+of the channel have led to the difficulties of measuring salesperson performance. Distinct to synchronous communication in which
+two involved parties should concurrently active during the communication process (such as telephoning), the asynchronous
+communication does not require so. As a result, long response does not necessarily mean that the communication process fails and
+the sales closing invalidated. While there are plenty available methods to measure sales performance over non instant messaging
+platforms, the method to gauge sales performance over instant messaging platform still under searched. Hence, this research
+develops a method to assess salespersons performance. For the methodology, there are three steps namely analyzing mobile chat
+transcript, identifying relevant variables, and defining suitable measurement. The identified variables and their measurements will
+be the new indicators. To this point, we use real data set from a Japanese-style cookware online shop called forbento.com. The
+result of this research are five performance indicators, namely response time, sales closure rate, sales product quantity, sales
+amount, and product variant
+","Instant Messaging; Mobile Chat; Customer Relationship Management; Call Center, Salespersons; Enterprise Systems; "
+541666,Development-of-Android-Application-for-Courier-Moni_2017_Procedia-Computer-S.pdf,"Development of Android Application for Courier Monitoring
+System",ISICO 2017,Procedia Computer Science,124,2017,"
+Faizal Johan Atletiko","
+Accuracy and precision are two important factors which must be fulfilled in distribution of goods, so the business proses lifecycle
+of an enterprise or company would run properly. However, at the time of the distribution process performed, a problem could occur.
+A complicated ordering flow can be one of the problem as happened in the distribution of medicine to pharmacies or hospitals.
+Medicine can be ordered when distributors assign some of its salesman for visiting pharmacies or hospitals and offer medicine to
+be sold. Pharmacies who will order must create a letter and handed it to the salesman. All orders from some pharmacies or hospitals
+will be entered into the order book manually by the salesman. Afterwards, order book returned to distributor and after going
+through several process again, the order will be sent to the pharmacy or hospital. That issue is the topic of this research, which at
+the time of delivery of order, courier could be negligent. Therefore, courier needs to be monitored to determine whether the order
+has been shipped or not. The purpose of this research is to design and build a courier monitoring system. Application is an android
+based application using GPS Location to trace courier location, and Android Cloud to Device Messaging for push notification
+feature. There are three modules for users of this application. Application in part one will be used by the medicine distributor
+company. The second one are used by the salesman to make an order while at the customer premises. The last part are used by the
+courier for order information and customer location. With this courier monitoring system, pharmacies or hospitals could order
+medicine quickly and in the right amount. This application can also help distributors in order to monitor location of the courier.
+So that the business process of both parts would run properly.","Mobile Application Development; Courier Monitoring System; Pharmacy Distribution; Medicine Courier; Android C2DM; Tracking
+"
+541667,Development-of-mobile-electronic-nose-for-beef-qual_2017_Procedia-Computer-S.pdf,"Development of mobile electronic nose for beef quality monitoring
+",ISICO 2017,Procedia Computer Science,124,2017,"Dedy Rahman Wijaya, Riyanarto Sarno, Enny Zulaika, Shoffi Izza Sabila","
+Meat is one of foodstuff that widely consumed in the world. Unfortunately, the quality of meat can easily degrade if not handled
+properly and become the serious health hazards if consumed. Hence, the food safety system is very important to guarantee the
+quality of food to be consumed. In this study, we introduced the development of mobile electronic nose for beef quality detection
+and monitoring. This system is developed using low-cost hardware and possible to integrate with cooling box or refrigerator for
+real time monitoring and analysis during distribution and storage processes. K-Nearest Neighbor with signal preprocessing is
+used to classify two, three, and four classes of beef. The experimental results show that the system can perfectly distinguish fresh
+and spoiled beef. Moreover, it has promising classification accuracy for binary, three classes, and four classes classification with
+93.64%, 86.00%, and 85.50%, respectively. Hence, this system has a potential solution to provide low-cost, easy to use, and real-
+time meat quality monitoring system.
+",Mobile Electronic Nose; Beef Quality Monitoring; Classification; K-Nearest Neighbor
+541668,Disaster-Knowledge-Management-Analysis-Framework-Utilizing_2017_Procedia-Com.pdf,"Disaster Knowledge Management Analysis Framework Utilizing
+Agent-Based Models: Design Science Research Approach",ISICO 2017,Procedia Computer Science,124,2017,"
+Dedi Iskandar Inan, Ghassan Beydoun","
+Disaster Management (DM) knowledge has long been acknowledged as playing a significant role in reducing the impact caused
+by disasters. It helps people at the decision-making level to produce contextual decisions, as they are produced from the
+interaction of the involved social entities and their experiences and those who are on the ground to appropriately react towards
+the disaster. While it is seen as critical the DM activities, its adoption is still challenging due to its complex structure and
+availability. This paper employs the Design Science Research (DSR) methodology in Information System (IS) research to
+develop and validate a knowledge transfer analysis framework to unify access to semi-structured DISPLANs (Disaster
+Management Plans) through a unified repository. In the development, Agent-Based Models (ABMs) are used to code the
+DISPLANs to enable their transfer into a repository. The Meta Object Facility (MOF) Metamodeling Framework is then used to
+create a repository that is ready for storing the content of ABMs. This developed framework is then validated using a real case
+study of the flood DISPLAN of the State Emergency Service (SES) the State of Victoria, Australia. At the end, this paper
+contributes to: (1) a validated knowledge transfer analysis framework supporting DM resilience endeavors; (2) demonstrate the
+DSR methodology as a frame for IS research.
+","Disaster Management; Design Science Research; Agent-Based Model; Knowledge Management; Metamodeling
+"
+541669,Effects-of-Technology-Readiness-Towards-Acceptance-of-M_2017_Procedia-Comput.pdf,"Effects of Technology Readiness Towards Acceptance of
+Mandatory Web-Based Attendance System",ISICO 2017,Procedia Computer Science,124,2017,"
+Mahendra Adhi Nugroho, M. Andryzal Fajar
+","
+This study explores the effect of technology readiness on a mandatory web-based system. Using technology readiness indicators,
+this study sought to understand the effect of optimism on the perceived case of use and perceived usefulness, effect of
+innovativeness on the perceived ease of use and perceived usefulness, the effect of discomfort on the perceived ease of use and
+perceived usefulness, the effect of insecurity on the perceived ease of use and perceived usefulness, and the effect of perceived
+ease of use and perceived usefulness towards behavior intention in using technology. This study uses 368 respondents and the
+responses were analyzed using Partial Least Square (PLS) approach with the help of software Smart PLS 3.2.0. The result shows
+interested finding, only two variables (optimism and innovativeness) were supported while the rest were rejected.
+","Technology readiness; Perceived Usefulness; Erceived Ease of Use; Mandatory Web-Based Attendance System
+"
+541670,Effects-of-Word-Class-and-Text-Position-in-Sentiment-b_2017_Procedia-Compute.pdf,"Effects of Word Class and Text Position in Sentiment-based News
+Classification",ISICO 2017,Procedia Computer Scienc,124,2017,"
+June Ling Ong Hui, Gan Keng Hoon, Wan Mohd Nazmee Wan Zainon
+","
+In news domain, sentiments captured in the form of sentiment labels (emoticon) give a quick feedback of reactions towards the
+contents of the news. As these reactions are valuable indicators for social and political well beings, we are motivated to automate
+the classification of news texts based on these indicators, e.g. happy, sad, angry, amused etc. Unlike other review texts that contain
+more explicit words which can be interpreted directly for sentiment classification, news texts mostly report facts and figures. This
+resulted in needs to identify whether contents of news can be exploited for classification or otherwise. Hence, in this work, a study
+is conducted to analyze and determine the relevant key parts of news contents that can be to be used for sentiment-based
+classification. Two criteria, i.e. text Part of Speech and text position, which could possible influence the training of the classifier
+are studied. Evaluations are conducted on the collection of 250 English news texts labelled with sentiments from sentiment voting
+system. The results for sentiment-based category has recorded F score of 0.422 whereas for polarity-based category has recorded
+F score of 0.837. The study has shown that when finer categories (e.g. happy, sad etc.) are used, the inspected criteria are less
+effectively; however, when these categories are based on polarity orientations, the outcomes show potentials of the proposed criteria
+especially for text positioned at headlines and text using adjective words.
+","News Sentiment; Text Classification, Text Analysis
+"
+541671,E-Government-Integration-through-Implementation-of-web-base_2017_Procedia-Co.pdf,"E-Government Integration through Implementation of web-based
+GIS on Community Health monitoring in Jembrana Regency, Bali",ISICO 2017,Procedia Computer Science,124,2017,"
+Jatmiko Wahyu Nugroho Joshua, I Putu Agus Swastika, Tri Oktin Windha Daniaty
+","
+To achieved the goal of Healthy Indonesia, The Minister of Health, Republic of Indonesia issued a ministerial regulation, about
+Guidelines For The Program Of Healthy Indonesian Programs with Family Approach, and in the Ministerial Regulation states
+that Implementation of Healthy Indonesia Program with Family Approach implemented by Puskesmas (Community Health
+Centers), to support the achievement of a Healthy Indonesia goal which is mandated to the puskesmas, it is necessary to integrate
+it into the Blueprint for e-Government implementation in Jembrana Regency. Through implementation of E-Prokesmas, Head of
+Central Community Center and also Regency Health Office can monitor the achievement of healthy family in its working area,
+according to health indicators as government requirements on web-based GIS dashboard. The information displayed in E-
+Prokesmas not only display the health level status of the community (percentage of the healthy population, number of pre-
+healthy percentage and number of newborn mothers), but it can also be a source of information for officer action in conducting
+health monitoring of sick members in the residential district.
+","e-Government; e-Health; GIS; Community Health Monitoring; Indonesia
+"
+541672,Estimating-Gas-Concentration-using-Artificial-Neural-N_2017_Procedia-Compute.pdf,"Estimating Gas Concentration using Artificial Neural Network for
+Electronic Nose
+",ISICO 2017,Procedia Computer Science,124,2017,"Shoffi Izza Sabilla, Riyanarto Sarno, Joko Siswantoro","
+E-nose is a sensor used to detect the existence of gas in the air. Some types of sensor has the ability to detect certain gas and
+also has different datasheet. Slope deflection is the method to determine the suitable sensor for the experiment. E-nose with MQ
+Family produces the ratio of existing air and base line air resistance, and it is usually equipped with a datasheet containing the
+consecration of detected gas in a certain value of the sensor to convert the output to the concentration of detected gas. The ratio
+is used to estimate the concentration of a gas. In this paper, Artificial neural network is used to estimate the concentration of a
+gas in the air based on the ratio. Providing the accurate calculation of the ratio is very important to increase the Electronic nose
+performance, and the result of this experiment showed that the Artificial neural network method achieves a good performance with
+smaller RMSE of 0.0433 compared with the existing methods.
+","Artifical Neural Network, Sensor, Electronic Nose, Mangoes Ripeness
+"
+541673,Engaging-with-Customer-Using-Social-Media-Platform--A-_2017_Procedia-Compute.pdf,"Engaging with Customer Using Social Media Platform: A Case
+Study of Malaysia Hotels",ISICO 2017,Procedia Computer Scien,124,2017,"
+Kamarul Faizal Hashim, Nawar Abbood Fadhil","
+Social media is gaining its popularity among hotel operators as one of the important platforms to market their facilities and establish
+relationship with customers. In general, most of previous studies that examine this topic focuses on the effects of using social media
+among hotel operators (i.c., electronic words of mouth); and examine the adoption issue of this platform. However not much of
+attention given towards understanding how hotels are utilizing this platform to engage with their customers. This study aims to
+understand the implementation, challenges and technique used to measure the level of engagement using social media platform
+among hotel operators in Malaysia. This study adopts a qualitative case study approach and the data are collected using a semi-
+structured interviewing technique. The data were analyzed using content analysis technique. In general, the results indicated that
+five-star hotels in Malaysia is not utilizing Facebook platform at its fullest potentials. Hotel operators are having challenges in
+maintaining the level of engagement with the customers and above all, hotel operators in Malaysia does not have good knowledge
+on how to measure their level of engagement with the customers. This study ended with suggestions on how to measure customer
+level of engagement using Facebook platform and discussion related to research limitations.
+","Social media; Interactions; Online engagement; Tourism and Hospitality.
+"
+541674,ERP-Post-Implementation-Review-with-Process-Mining--A-_2017_Procedia-Compute.pdf,"ERP Post Implementation Review with Process Mining: A Case of
+Procurement Process",ISICO 2017,Procedia Computer Science,124,2017,"
+Mahendrawathi ER, Shania Olivia Zayin, Firman Jati Pamungkas
+","
+This paper promotes the use of process mining and root-cause analysis from BPM field to conduct post implementation review of
+ERP implementation at business process level. First, literature on ERP post implementation, measure of success, ERP lifecycle
+and process mining are reviewed. Then, a case study on a agricultural chemicals company that recently implemented an ERP
+systems is conducted. The focus of the case study is procurement process in the company. Interviews are conducted with
+procurement staffs in the company to obtain the standard procurement process. Then, data is extracted and structured into event
+logs. The event log is processed with Disco to discover the process model. Analysis was done to discover the normal and unusual
+paths in procurement process. ERP implementation is expected to increase efficiency of the procurement operation in terms of
+cycle time reduction. The process mining results show that some of the activities are very uncontrolled i.e. sometimes it can be
+done in a short time but in other cases it took a long time. The activity can be done quickly because the procedure is bypassed.
+The bottlenecks occur due to technical issues (error in the systems), data migration issues (the introduction of new material
+numbering and categories) and cultural issues (high dependency of hard copy approval). These issues need to be resolved so that
+the company can realize the operational efficiency benefit and eventually long-term strategic benefit of ERP implementation.
+","Post Implementation review; Process Mining; Procurement; SAP Materials Management
+"
+541675,Evaluation-of-E-Commerce-Product-Reviews-Based-on-Structu_2017_Procedia-Comp.pdf,"Evaluation of E-Commerce Product Reviews Based on Structural,
+Metadata, and Readability Characteristics",ISICO 2017,Procedia Computer Science,124,2017,"
+
+Rully Agus Hendrawan*, Erma Suryani, Rani Oktavia
+","
+Online customer reviews have important role in buying decision process. Nowadays, there are a lot of customer reviews available
+in online marketplace so that customer can read those reviews for better understanding about product or service that they will
+purchase. Customer online reviews become important complementary information besides product description, expert reviews, and
+recommendation from the system. However, due to abundant reviews, it become unclear whether these reviews have good quality
+and useful for other customers. Based on a survey, 87% customers will read at least 10 reviews before deciding to buy product.
+New online customer reviews might have good quality but since it wasn't popular yet, the reviews will be missed by other
+customers. Therefore, it is necessary to evaluate the quality of customer reviews. Quality evaluation can be done based on three
+characteristics which are structural, metadata, and readability. Final calculation is being done using weighted sum. Feature that
+mostly affects quality rating of consumer review is the score of readability characteristics.
+","Product Metadata; Online Customer Reviews; Metadata Quality
+"
+541676,Exploratory-Study-of-SMEs-Technology-Adoption-Readi_2017_Procedia-Computer-S.pdf,"Exploratory Study of SMEs Technology Adoption Readiness
+Factors",ISICO 2017,Procedia Computer Science,124,2017,"Mahendra Adhi Nugroho, Arief Zuliyanto Susilo, M. Andryzal Fayar, Diana Rahmawati","
+The rapid technological development in recent decades has influenced the business world. One of the most developed technology
+is information technology. In addition to large companies, SMEs should also start using information technology to improve its
+competitiveness. Despite its popular perceived benefit in assisting business, the level of information technology usage in SMEs in
+Yogyakarta is very low. This research is conducted by using qualitative methods with SMEs in Yogyakarta as the research samples.
+The samples are business owners of selected SMEs in Yogyakarta who has different background in education and experience. This
+research focuses on their readiness and determination in implementing information technology. The research result indicates that
+there are many factors affecting SMEs??? readiness to adopt information technology. Based on the research result, pressure from
+customers has become one of the prominent factors. In addition to pressure from customer, in general ease of use, need and capital
+are the factors affecting the readiness in adopting information technology. Furthermore, this research also revealed that urgency
+factor is the main supporting factor to adopt information technology in SMEs in Yogyakarta.
+","Type your keywords here, separated by semicolons;
+"
+541677,Factors-that-Affecting-Behavioral-Intention-in-Online-Tr_2017_Procedia-Compu.pdf,"Factors that Affecting Behavioral Intention in Online Transportation
+Service: Case study of GO-JEK",ISICO 2017,Procedia Computer Science,124,2017,"
+Rizky Septiani, Putu Wuri Handayani, Fatimah Azzahro
+","
+This study aims to analyze factors that affect the user's behavioral Intention on one of online transportation services in Indonesia:
+GO-JEK. These factors are derived from several IT adoption theories, namely, Technology Acceptance Model (TAM), Theory of
+Planned Behavior (TPB), and Diffusion of Innovation (DOI) theory. This study uses a quantitative approach with a total of
+1,2792 collected respondents. The data gathered within this study is being analyzed using covariance based Structural Equation
+Model (CB-SEM) method using AMOS 22.0 software. This study found that the factors of internal perception (perceived case of
+use), external influences (subjective norm), innovation characteristic (compatibility), perceived enjoyment and variety of service
+influence the behavioral intention of users on online transportation service in Indonesia.
+","Behavioral intention; Indonesia; m-commerce; online transportation; GO-JEK
+"
+541678,Indonesia-local-government-information-completenes_2017_Procedia-Computer-Sc.pdf,"Indonesia local government information completeness on the web
+",ISICO 2017,Procedia Computer Scienc,124,2017,"Fajara Kurniawan, Nur Aini Rakhmawati, Abi Nubli Abadi, Muhammad Zuhri, Wisnu Tri Sugiyanto","Electronic government or E-government is a step for bridging the government and its citizen. Indonesia Government issued a
+e-government regulation which goal is providing easy and affordable information about government for their citizen. Based on
+the regulation, this study aim to check quality of 548 official websites of local government where information completeness as
+main criteria. Apart from that, four websites have been chosen for this study namely Wikipedia EN, WikipediaID, DBpedia ID
+and DBpedia EN. Our investigation found that the official websites is still lacking on Information Completeness compared with
+Wikipedia and DBpedia. Furthermore, for each criteria, less than 60 % of the official websites of local government that can provide
+the information about that criteria. In addition, while searching local government name in Google, Wikipedia gets first rank for
+88.6% of resluts. Therefore, the official websites of local government still need to be improved to meet the goal that stated in
+regulation.
+","government, website, information completeness
+"
+541679,Information-Privacy-Concerns-on-Teens-as-Facebook-Us_2017_Procedia-Computer-.pdf,"Information Privacy Concerns on Teens as Facebook Users in
+Indonesia",ISICO 2017,Procedia Computer Science,124,2017,"
+Ari Kusyanti*, Dita Rahma Puspitasari, Harin Puspa Ayu Catherina, Yustiyana April Lia Sari","Abstract
+
+Facebook is the most popular social media among teens. In a research conducted by Crowd DNA to 13 countries, two-third of teens
+aged 13-24 checking on their Facebook 14 times a day. Along with the rising of social media development and popularity, issue of
+privacy concerns has become public attention. This paper attempted to investigate Facebook users??? information privacy concerns
+using Internet Users??? Information Privacy Concerns (IUIPC). The data used in this research is collected from a questionnaire survey
+and analyzed using Structural Equation Modelling (SEM). The result shows that although users are aware with the risk of
+information loss by using Facebook, it does not have effect on their intention to use Facebook.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: Social Media; Teens; Privacy; IUIPC; SEM
+
+1. Introduction","Social Media; Teens; Privacy; IUIPC; SEM
+"
+541680,Killer-Whale-Algorithm--An-Algorithm-Inspired-by-the-_2017_Procedia-Computer.pdf,"Killer Whale Algorithm: An Algorithm Inspired by the Life of
+Killer Whale",ISICO 2017,Procedia Computer Science,124,2017,"
+Totok R. Biyanto, Matradji, Sonny Irawan, Henokh Y. Febrianto, Naindar Afdanny,
+Ahmad H. Rahman, Kevin S. Gunawan, Januar A. D. Pratama, Titania N. Bethiana","???Department of Chemical Engineering, Sepuluh Nopember Institute of Lechnology, Surabaya 60111, Indonesia
+???Department of Petroleum Engineering, Universiti Teknologi PETRONAS, Malaysia
+???Department of Industrial Engineering, Pusan National University, South Korea
+
+Abstract
+
+This paper proposed a new algorithm inspired by the life of Killer Whale. A group of Killer Whale called Matriline that consist
+of a leader and members. The leader???s duty searches prey position and the optimum direction to chase the prey, meanwhile chase
+the prey is performed by the members. Optimum direction means minimum direction and maximum velocity. Global optimum is
+obtained by comparing the results of member???s actions. In this algorithm, if value of objective function of members more than
+leader, hence the leader must find out another new potential prey. In order to obtain the performance of proposed algorithm, it is
+necessary to test the new algorithm together with other algorithm using known mathematical function that available in
+Comparing Continuous Optimizers (COCO) especially Black Box Optimization Benchmarking (BBOB). Optimization results
+show that the performances of purposed algorithm has outperformed than others algorithms such as Genetic Algorithm (GA),
+Imperialist Competitive Algorithm (ICA) and Simulated Annealing (SA).
+
+?? I0N1R The Anthoare Puhliched hy Fleevier R V","Optimization; Killer Whale; Algorithm; Benchmark.
+"
+541681,Millennials--Perception-on-Mobile-Payment-Services_2017_Procedia-Computer-Sc.pdf,"Millennials Perception on Mobile Payment Services in Malaysia
+",ISICO 2017,Procedia Computer Science,124,2017,"Yeow Pooi Mun, Haliyana Khalid, Devika Nadarajah","Abstract
+
+In the early of 21st century, mobile payment became a hot topic after the burst of the internet, however its services are considered
+in their infancy stage and still quite new to the consumers in Malaysia. Therefore, there is a need to investigate the factors
+affecting consumers??? intention especially among the millennials to use mobile payment services in Malaysia which encourage the
+development of mobile payments as an innovative alternative payment method. In this study, perceived usefulness, perceived
+ease-of-use, perceived credibility and social influence were examined to identify the relationships with the consumers??? intention
+to use mobile payment services in Malaysia. The Extended Technology Acceptance Model (TAM) was used to construct the
+research framework of this study. Self-administered questionnaire was as the data collection tool in this study and 300 samples
+from Peninsular Malaysia were collected for data analysis. The findings show that all suggested factors have significant impact in
+affecting the consumers??? intention to use mobile payment services in Malaysia with perceived usefulness proved to be the
+strongest determinant. The implication and limitation of this study were discussed at the end of this paper.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: E-Commerce; Mobile Payment; Mobile Commerce; Information System","E-Commerce; Mobile Payment; Mobile Commerce; Information System
+"
+541682,Mobile-Web-Energy-Monitoring-System-Using-DFRdui_2017_Procedia-Computer-Scie.pdf,"Mobile Web Energy Monitoring System Using DFRduino Uno
+",ISICO 2017,Procedia Computer Science,124,2017,"Kristine Mae E. Galera, Orven E. Llantos","Energy consumption in residential households is very important to consumers. The rise in electricity prices have
+deemed to consumers the need to conserve energy, with less to no information on their energy consumption patterns.
+A step to towards energy conservation is a real time energy monitoring system which provides feedback to the
+consumers, thus the consumer will be able to identify the opportunities to adjust and identify how to conserve energy.
+
+This paper presents a real time energy monitoring system that is cost-effective and reliable, it can be used to analyze
+and evaluate the output voltage or generated energy from a household appliance. A hardware device is used to gather
+energy data passed and stored to a database through cloud-based RESTful API resources. These resources are then
+used by the mobile web application for displaying real-time and historical energy readings.
+
+The developed monitoring system have an accuracy rate of 94% in getting the correct energy consumption through
+testing. The results of user???s feedback during testing provides insights to supplementary features which shows the
+usefulness of the energy monitoring system.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: Energy Management; Home Energy Monitoring; Mobile Computing; Embedded System","Energy Management; Home Energy Monitoring; Mobile Computing; Embedded System
+"
+541683,Motivational-Factors-for-Knowledge-Sharing-using-Pedagogica_2017_Procedia-Co.pdf,"Motivational Factors for Knowledge Sharing using Pedagogical
+Discussion Cases: Students, Educators, and Environmental Factors",ISICO 2017,Procedia Computer Science,124,2017,"
+Narumon Sriratanaviriyakul, Jamal El-Den
+","Abstract
+
+This research examines the motivational factors which affect knowledge sharing among university students during the use of
+pedagogical discussion cases in/out of the classroom. The research identifies three factors, namely the individual level (student???s
+prior knowledge, experience and self-efficacy), the lecturer level (lecturer???s prior knowledge, experience and characteristics of
+trust and fairness), and the environmental level (course context and diversity in team structure). The research was conducted on
+undergraduate business students enrolled in one of the business management courses (n = 103) and analyzed using multiple
+regression, a questionnaire was administered to the students and data analysis was conducted. The results of the analysis
+demonstrated that the student???s prior knowledge and experience, the lecturer???s prior knowledge and experience, and the course
+context positively influenced the level of knowledge sharing. In addition, the analysis demonstrated that the student???s self-
+efficacy, the lecturer???s characteristics, and the diversity in team structure have no significant influence on knowledge sharing.
+The implication of the study is that lecturers need to promote the students the importance of knowledge sharing as well as
+understanding their subject and cultivate a positive course context and learning environment to encourage knowledge sharing
+among the students.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.","Knowledge Sharing; Knowledge Sharing Motivation; Discussion Cases; Students; Educators; Environmental Factors
+"
+541684,Modified-Regression-Approach-for-Predicting-Number-of-De_2017_Procedia-Compu.pdf,"Modified Regression Approach for Predicting Number of Dengue
+Fever Incidents in Malang Indonesia",ISICO 2017,Procedia Computer Science,124,2017,"
+Wiwik Anggraeni, Rafika Nurmasari, Edwin Riksakomara, Febriliyan Samopa,
+Raditvo Prasetvanto Wibowo, Lulus Condro T., Pujiadi","Jl. Arief Rahman Hakim, Surabaya 60111, Indonesia
+???Malang Regency Health Service, Kepanjen Malang 65163, Indonesia
+
+Abstract
+
+This paper adopted regression approach with Least Square and Natural Logarithmic transformation in response variables to predict
+the number of Dengue fever attacks in Malang Regency, Indonesia. The prediction involved weather factors. 8 models were
+prepared, and it was found that the weather factor was the most influential. Some tests, including hypothesis test, were adopted to
+identify the significance of the model found. The model using response variable with logarithmic natural transformation resulted
+better model compared to the ones without transformation. It was also supported by the average MAPE of the model that was less
+than 10%. Therefore, it was identified that the regression approach will work well if both dependent and independent variables
+have relatively similar variances so that the variability of the dependent variables can be well explained by the independent variable.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: Regression; Ordinary Least Square; Prediction; Dengue Fever, Natural Logarithm","Regression; Ordinary Least Square; Prediction; Dengue Fever, Natural Logarithm
+"
+541685,Multi-Methods-for-Knowledge-Management-Strategy-Roadmap-_2017_Procedia-Compu.pdf,"Multi Methods for Knowledge Management Strategy Roadmap of
+Government Human Capital Management",ISICO 2017,Procedia Computer Science,124,2017,"
+Elin Cahyaningsih, Dana Indra Sensuse, Handrie Noprisson","DE IEE OEE EEE INS
+
+     
+
+Abstract
+
+Knowledge management strategy roadmap consists of several stages to implement knowledge management in three government
+organization who manage the government human capital management process. They are State Ministry for State Apparatus
+Reform (KEMENPAN & RB), National Civil Service Agencies (BKN) and National Institute of Public Administration (LAN).
+Generally this KM strategy roadmap covers three important aspects in the government human capital management there are
+people, process and technology. This research describes the development of the KM strategy using multi methods there are OCAI
+(Organizational Culture Assessment Instrument), gap analysis assessment and risk analysis assessment. Questionnaire and
+interviews are conducted to discover the data related to the KM strategy roadmap of government human capital management.
+Result of the KM strategy roadmap was validated using expert judgment. Research finding that the KM strategy roadmap for
+government human capital management was describes in three criteria and three phase. There are people (three phase), process
+(three phase), technology (two phase) and each of phase has their own strategic action plan.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: knowledge management; knowledge management strategy; government human capital management; gap analysis; risk analysis;
+ACAT","knowledge management; knowledge management strategy; government human capital management; gap analysis; risk analysis;
+"
+541686,Multiview-Similarity-Assessment-Technique-of-UML-_2017_Procedia-Computer-Sci.pdf,"Multiview Similarity Assessment Technique of UML Diagrams
+",ISICO 2017,Procedia Computer Science,124,2017,"Alhassan Adamu, Wan Mohd Nazmee Wan Zainon","Abstract
+
+Software system development has been beset by consistency problem since its infancy. This problem is still greater during the
+software design stage, and are greater still in UML diagrams. This is principally caused because of the existence of multiple
+views among UML diagrams. The main issue that arise when assessing the similarity of UML diagrams from multiple views is
+how consistency can be maintained across different views during the comparison. Previous works have failed to address this
+issue. They only compare one type of diagram in one stage and another type of diagram in another stage, this manner of
+similarity assessment lead to incorrect similarity scores, thereby creating inconsistencies in the information conveyed by the
+UML artifacts during software reuse. This paper presents Multiview similarity assessment technique, in which the similarity of
+UML diagrams is computed from structural and behavioral views of software systems.
+
+?? 2018 The Authors. Published by Elsevier B.V.
+Peer-review under responsibility of the scientific committee of the 4th Information Systems International Conference 2017.
+
+Keywords: Multiview; Similarity Accessment, UML Matching Metrics
+
+1. Introduction","Multiview; Similarity Accessment, UML Matching Metrics
+"
+541687,Network-Intrusion-Detection-Systems-Analysis-using-Freque_2017_Procedia-Comp.pdf,"Network Intrusion Detection Systems Analysis using Frequent Item
+Set Mining Algorithm FP-Max and Apriori",ISICO 2017,Procedia Computer Science,124,2017,"
+Bekti Cahyo Hidayanto, Rowi Fajar Muhammad,
+Renny P Kusumawardani, Achmad Syafaat","Jl. Arief Kahman Hakim surabaya, 60111, [Indonesia
+???mdonesia Security Incident Response Team on Internet Infrastructure/Coordination Center (Id-SIRTI/CC)
+Ministry of Communcation and Information Indonesia
+Menara Ravindo 17"" Floor, JI. Raya Kebon Sirih Jakarta Pusat, Indonesia
+
+Abstract
+
+Within the fast growing of internet user and technology in Indonesia, thus threat coming from internet is raising. The threat is
+common for all user in the world. Therefore, the malware has growth rapidly and the behavior is becoming more advanced. From
+these problem, it is important to know, how the malware is growing and how the characteristics about malware attack in Indonesia.
+This research aim used the data source taken from Intrusion Detection Systems sensor from Id-SIRTII/CC, Ministry Information
+and Communication Indonesia. This research finds for any type of attack which frequently occurred using Frequent Item Sct
+Mining. Therefore, data will be visualized for giving the better analysis result and giving the overview about the internet security
+condition in Indonesia in 2013. In minimum support 95% in frequent item set mining (both Apriori and FP-Max), we found that
+malware frequently occurred are SQL attack, Malware Virus DNS and DoS. The largest malware in our data only have slightly
+less than 80% than another pattern that have more than 90% value of support.
+
+?? 2018 The Authors. Published bv Elsevier B V.","Internet Attack; Frequent Item Set Mining; FP-MAX; Apriori; SNORT; Intrusion Detection Systems
+"
+541688,NUSANTARA--A-New-Model-of-Knowledge-Management-in-Gover_2017_Procedia-Comput.pdf,"NUSANTARA: A New Model of Knowledge Management in
+Government Human Capital Management",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Elin Cahyaningsih, Dana Indra Sensuse, Aniati Murni Arymurthy, Wahyu Catur Wibowo","???Human Resource Department, National Civil Service Agency, Jakarta, Indonesia
+
+Abstract
+
+Knowledge management is one of organizational strategy to improve the organizational competitive value. Align with
+presidential regulation No. 81 Year 2010 about bureaucratic reform and PERMENPAN&RB No. 20 year 2010 about
+bureaucratic reform roadmap declare that one bureaucratic reform objective are human capital development. This program is
+important to increase the public service. Three government ministries based on the UU No. 5 Year 2014 about Government
+Human Capital assigned to manage them. This research aims to develop the model of knowledge management for government
+human capital management. Research object implicate State Ministry for State Apparatus Reform (KEMENPAN & RB),
+National Civil Service Agencies (BKN) and National Institute of Public Administration (LAN). While the research stages are
+identify the strategic issue, develop the theoretical model, evaluate the theoretical model, identify the element model and
+knowledge and the last develop the model. Data analysis uses multiple methods in qualitative and quantitative technique. This
+model was developed using hybrid and synthesis method from the theoretical model of Indonesian knowledge management,
+knowledge management solution and foundation and the APO framework KMP. The model of government human capital
+knowledge management of Republic Indonesia (NUSANTARA) consist of eight component there are vision and mission, CSF,
+KM Mechanisms and Technologies, KMS, KM cycle, KM process, organizational core knowledge and outcome (government
+public services).","knowledge management; knowledge management model; government human capital management; government human capital; Knowledge management solution and foundation
+"
+541690,Risks-Assessment-of-Information-Technology-Processes-Based_2017_Procedia-Com.pdf,"Risks Assessment of Information Technology Processes Based on
+COBIT 5 Framework: A Case Study of ITS Service Desk",ISICO 2017,Procedia Computer Science,124,2017,"
+Hanim Maria Astuti, Feby Artwodini Muqtadiroh, Eko Wahyu Tyas Darmaningrat,
+Chitra Utami Putri","
+Directorate of Information Technology and Systems Development (Direktorat Pengembangan Teknologi dan Sistem Informasi,
+DPTSD is an organization unit of Institut Teknologi Sepuluh Nopember (ITS) Surabaya which responsible for providing services
+related to information technology and system for all stakeholders. Incident management and requests fulfillment are part of the
+services managed by Service Desk unit of DPTSI. Incident management and requests fulfillment hold significant role yet prone
+to error, they could pose threats and risks for the organization. Hence, identification and assessment of risks, especially risks of
+IT processes, are highly required to avoid problem or disruption in organizational business processes and to minimize losses. In
+this research, COBIT 5 Enabling Process is used as a framework to identify the IT processes, whereas COBIT 5 for Risks is used
+to conduct the risk management activities. Risks are identified from Service Desk's business processes and existing condition of
+DPTSI. Data and information are obtained from interviews and observation, then they are mapped to corresponding ideal
+conditions based on COBIT 5 process DSS02 Manage Service Requests and Incidents. Furthermore, risks related to information
+technology processes are being identified, assessed and managed based on COBIT 5 process APO12 Manage Risks. The output
+of this research is a document containing list of IT risk assessment and risk control justification which can be used as a reference
+document for Service Desk unit of DPTSI ITS in managing risks associated with IT Processes. A good risk management
+processes will help the decisions??? maker of the organization to make strategic decisions. In addition, the document may be used
+
+meme ig ig lg","Incident Management; Requests Fulfillment, Risk Management; Risk of IT Process; COBIT 5 for Risk
+"
+541691,Public-Sector-Accountants--Opinion-on-Impact-of-a-Ne_2017_Procedia-Computer-.pdf,"Public Sector Accountants Opinion on Impact of a New Enterprise
+System",ISICO 2017,Procedia Computer Science,124,2017,"Zain Zainol, Dahlia Fernandez, Hawa Ahmad
+","
+In digital era, citizen has higher expectation on public sector services. Excellence services and delivery system are
+expected from them. Towards this, the need to have a good system such as Enterprise Resource Planning (ERP)
+system as evidence in private sector is one of the crucial efforts. Prior researches especially in private sectors have
+recorded various benefits of implementing ERP systems among others, fast data processing, higher integration, up to
+date information, higher staff satisfaction, better governance and transparency and reduce operating cost. This study
+focused on the impact of ERP via ePBT system in the local agencies (LAs) of Malaysia. ePBT was developed to
+improve the delivery of LAs via the usage of information, communication and technology (ICT). It has been
+implemented by Malaysian Administrative Modernisation and Management Planning Unit (MAMPU) and Local
+Government Department (LGD), at various stages. This study used a questionnaire survey distributed to LAs???
+organization in Peninsular Malaysia that are currently utilizing the ePBT system, and drew a total response of 52.53
+percent. The impact of this system was analyzed based on opinions received by LAs??? accountants, who are mostly
+the main user of this system. There four dimensions of ePBT impacts which are based on DeLone and McLean IS
+success model (system and information quality) and the BSC measurement model (internal business and innovation
+& learning perspectives). This study provides a better understanding regarding the impact of ERP implementation in
+the context of LAs in Malaysian public sector.","Public sector accountant; enterprise resource planning; ePBT; system quality; information quality; local agencies
+
+"
+541692,Scalable-indexing-algorithm-for-multi-dimensional-time-g_2017_Procedia-Compu.pdf,"Scalable indexing algorithm for multi-dimensional time-gap analysis
+with distributed computing
+",ISICO 2017,Procedia Computer Science,124,2017,"Riska Asriana Sutrisnowati, Bernardo Nugroho Yahya, Hyerim Bae, Iq Reviessay
+Pulshashi, Taufik Nur Adi","
+Data has been become increasingly and abundantly available as industries have applied numerous information systems to automate
+business process execution. Process mining focuses on discovering knowledge from historical data repositories to support better
+decision making, mostly from a single perspective. Multi-perspective, or multi-dimensional process mining becomes an open issue
+in process mining working groups, since the nature of event logs vary according to its domain, and a single process model might
+not be justified. Notwithstanding the previous work and the multi-dimensional process mining approaches developed therein, the
+contents of iterative indexing method and platform-dependent computational issues cause problems on scalability and usability
+respecting real world implementation. In response to such problems, the present study formulated a scalable indexing algorithm
+for multi-dimensional process analysis with distributed computing. A new solution is applied wherein we index only attributes
+inside the selected events and show only a reduced graph of long-duration gaps between events. The implementation is done with
+an independent online analytical tool. Additionally, case study of an actual port is provided to illustrate and alidate our method.
+","process mining, multi-dimensional process view, distributed computing, visualization, port logistics
+"
+541693,Security-Strategies-for-Hindering-Watering-Hole-Cyb_2017_Procedia-Computer-S.pdf,"Security Strategies for Hindering Watering Hole Cyber Crime Attack
+",ISICO 2017,Procedia Computer Science,124,2017,"Khairun Ashikin Ismail, Manmeet Mahinderjit Singh, Norlia Mustaffa, Pantea Keikhosrokiani, Zakiah Zulkefli","
+The significant increase of Advanced Persistent Threat (APT) attacks, especially via watering hole leads to a huge loss to the
+company as they enable Bring Your Own Devices (BYOD) in the workplace. Higher education institutions also faced the same
+threat since BYOD has been adopted into their institution. In this paper, a simulation on watering hole attack and spear phishing;
+comparison between these two APT variants, as well as the survey design based on the Protection Motivation Theory (PMT) are
+presented. The result of the survey is analyzed using PLS-SEM. The result demonstrated that severity factor and vulnerability
+factor moderately explained the Protection Behaviour factor; and Protection Behaviour factor is a moderately strong predictor to
+self-efficacy, but avoidance behavior does not predict self-efficacy directly. Based on this result, a set of security policy for
+hindering watering hole and spear phishing attack is designed and implemented. The new policy will then be adapted to the
+university e-learning portal.
+","Bring Your Own Devices (BYOD); Advanced Persistent Threat (APT); Watering Hole; Cyber Crime; Smartphone
+"
+541694,Self-Branding-on-Social-Media--An-Analysis-of-Style-B_2017_Procedia-Computer.pdf,"Self-Branding on Social Media: An Analysis of Style Bloggers on
+Instagram",ISICO 2017,Procedia Computer Scienc,124,2017,"Rendan Liu, Ayoung Suh","
+The concept of self-branding is prevalent in society today due to the emergence and growth of various social media platforms. In
+particular, this new digital media environment has empowered especially women to market themselves as brands. Despite
+increasing scholarly and practical attention being paid to the influence of social media on individuals??? self-branding practices, little
+empirical research has systematically examined how people use social media as a tool to establish their branded-selves. Using a
+content analysis method, we analyzed 243 posts from the top 10 style bloggers??? Instagram accounts according to a systematic
+coding scheme. The results of our analysis indicate that although most leading style bloggers still adhere to traditional beauty and
+hierarchic criteria, social media provides great opportunities for women to establish their branded-selves and allows them to market
+themselves in line with the increase of awareness of women???s rights. Results also show that a huge number of the style bloggers???
+followers are influenced by the way the bloggers use technological functions along with their modes to present themselves, through
+which they become emotionally attached to the bloggers. Based on these findings, we discuss academic and practical implications
+for self-branding via using social media.
+","Self-branding; Social Media; Postfeminism; Instagram; Self-presentation; Blogger
+"
+541695,Service-Quality-Analysis-for-Online-Transportation-Ser_2017_Procedia-Compute.pdf,"Service Quality Analysis for Online Transportation Services: Case
+Study of GO-JEK",ISICO 2017,Procedia Computer Science,124,2017,"Shilvia L. Br. Silalahi, Putu W. Handayani, Qorib Munajat
+","
+This study aims to analyze the service quality of online transportation focusing on the technology aspect. The measurement
+developed from previous related studies includes three dimensions which are service quality, information quality, and system
+quality. The research approach is quantitative approach with Entropy technique for data analysis and GO-JEK as case study. The
+number of respondents for this study is 1,670. The analysis shows that there are 20 criteria that can be used to measure online
+transportation service quality. From the entropy analysis, each criterion was weighted to rank the quality of the services relatively
+to cach other. It was found that the best three aspects for GO-JEK online transportation services are perceived cognitive, ease of
+use, and perceived website innovativeness. Meanwhile, the three lowest criteria are compensation, trust and perceived risk.
+","Service Quality; Mobile Commerce; Entropy Technique; Online Transportation
+"
+541696,Simple-Symbolic-Dynamic-of-Heart-Rate-Variability-Identi_2017_Procedia-Compu.pdf,"Simple Symbolic Dynamic of Heart Rate Variability Identify Patient
+with Congestive Heart Failure",ISICO 2017,Procedia Computer Science,124,2017,"
+Faizal Mahananto, Arif Djunaidy
+","
+Symbolic dynamics allows representing the heart rate variability signal into a common symbol that has been determined to ease
+the calculation process. The application of existing symbolic analysis can eliminate the information contained in those signals.
+This paper proposes a method of symbolic analysis by taking into account the size of symbolic signal changes. Symbols are
+divided into two groups: that for the increasing signal and decreasing one. To store the signal amplitude information, three groups
+of divisions are proposed i.c., amplitude less than one times standard deviation, that is more than or equal to one times standard
+deviation to less than two times standard deviation and more than two times standard deviation. The probability of each symbol
+in a series of data is calculated. Besides, Shannon entropy of all the data on each sample was also calculated. The result suggests
+that the probability of each symbol has a significant difference between the normal subject and patients with congestive heart
+failure.
+","Symbolic dynamic; heart rate variability; congestive heart failure
+
+"
+541697,Social-Network-Extraction-Based-on-Web--A-Comparison-_2017_Procedia-Computer.pdf,"Social Network Extraction Based on Web. A Comparison of
+Superficial Methods
+",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Mahyuddin K. M. Nasution, Shahrul Azman Noah
+","
+
+The Web as a source of information has many potentials which allow to use the different treatments on social network extraction
+methods. The approaches generally we identified as superficial methods in unsupervised stream. However, the same resources
+of social networks, i.e. based on a community of social actors, reveal many of different approaches to produce social networks.
+Therefore, based on a treatment to another treatments, from the given treatments until the different social networks generated and
+it has been declared different methods. It requires comparison to reveal the properties of social networks and their methods in this
+paper. It is revealed that there is a core social network has similarity with other social networks is more than 1% as general property
+of the extracted social networks, whereby there is a social network for different methods has the common edges in graph.
+","Superficial method, occurrence, co-occurrence, hit count, snippet, URL address, Web, vertices, social actors, edges, strength relations
+"
+541698,Spatial-data-utilization-for-location-pattern-an_2017_Procedia-Computer-Scie.pdf,"Spatial data utilization for location pattern analysis
+",ISICO 2017,Procedia Computer Scienc,124,2017,"Dyah Lestari Widaningrum, Isti Surjandari, Aniati Murni Arymurthy","
+Retail industry growth in Indonesia is considered significant and will continue, related to Indonesian lifestyle changes. One of the
+important things to consider is location determination. The complexity of the location determination problem for the development
+of a business requires a comprehensive decision support system, using relevant data and appropriate technology so that it can
+accommodate a variety of data formats and information. This paper described the spatial pattern analysis approach to discover
+patterns of fast food restaurants. ArcGIS Spatial Autocorrelation (Moran???s J) tool was used to find evidence that the fast food
+restaurant distribution in Jakarta, as the biggest city in Indonesia, has a clustered pattern and were not the result of random
+chance. The clustered pattern was investigated using Kernel Density Estimation (KDE) to identify the clustered area of fast food
+restaurant.
+","Spatial data; GIS; cluster; fast food restaurant
+"
+541699,Structural-Similarity-Measurement-of-Business-Process-Model-_2017_Procedia-C.pdf,"Structural Similarity Measurement of Business Process Model
+to Compare Heuristic and Inductive Miner Algorithms Performance
+",ISICO 2017,Procedia Computer Science,124,2017,"Ifrina Nurithaa, Mahendrawathi ER","
+Heuristic and Inductive Miner algorithms have different characteristics, properties, specializations, and performances in modeling
+business process. This research adopts three modules from Wang framework ic. log generation, process mining, and similarity
+calculation to compare process mining algorithms performance in dealing with noise. The similarity calculation module measures
+structural similarity between reference model generated from standard event log, with mined model generated from noisy event
+log obtained with Heuristic and Inductive Miner algorithms. Noisy event log is obtained by adding 1% noise to the standard event
+log. Results from stuctural similarity measurement show that Inductive Miner algorithm obtain better performance in dealing with
+noise, especially related to material procurement process model of Cement Manufacturing and production in Pharmaceutical
+Industry.
+","Heuristic Miner; Inductive Miner; Process Mining; Structural Similarity
+"
+541700,Surveying-LinkedIn-Profiles-of-Data-Scientists--The-C_2017_Procedia-Computer.pdf,"Surveying LinkedIn Profiles of Data Scientists: The Case of the
+Philippines",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Jerina Jean Ecleo, Adrian Galido","
+The talent pool of data scientists in the Philippines is geared to be increased. The extant literature has analyzed the skills needed
+from data scientists through analyzing online job posting and industry reports. This study surveys the LinkedIn profiles of 100
+data scientists from various Philippine-based companies taking a closer look on their featured skills. Results indicated that data
+scientists are experienced professionals with advanced degrees possessing skills on data processing or data visualization,
+programming language, statistical packages, office applications and databases. Data scientists appear to be closely related to
+statisticians but also showed affinity to big data. Further studies are directed to develop a tool to automate extracting of data from
+the LinkedIn profiles and to periodically conduct skills requirements research.
+
+","LinkedIn; data scientist; job skills
+"
+541701,Teenstagram-TimeFrame--A-Visualization-for-Instagram-Time-_2017_Procedia-Com.pdf,"Teenstagram TimeFrame: A Visualization for Instagram Time Dataset
+from Teen Users (Case Study in Surabaya, Indonesia)",ISICO 2017,Procedia Computer Science,124,2017,"
+Irmasari Hafidz, Alvin Rahman Kautsar, Tetha Valianta, Nur Aini Rakhmawati
+","
+The aim of this study is to create Teenstagram, a visualization for online pattern activity using Instagram dataset from teen users (junior
+high school, 7"" - 9"" grade) in Surabaya, Indonesia. First, an offline workshop about ethics using Internet and social media for 18 junior
+high schools in Surabaya were conducted about three weeks, from 3??? until 26 October 2016. Second, we create Teenstagram, by
+building a web application to visualize and analyze the pattern activity from teen users using Instagram. We get the 290 Instagram
+users account from 579 students who fill in the survey from the first stage of the research. We employ K-Modes using R to cluster the
+dataset with six categorical features; online type activity (like, comment follow), days in the week (Monday ??? Sunday), hour (00-23),
+student activity (study time, rest time, school time), type of school (public and private activity), and sex (male, female). We propose a
+tool for analyzing Instagram dataset for online time activity, this result reveals the time pattern from the teen users using social media
+(e.g. Instagram) and what are the characteristics of each pattern has.
+","Instagram; K-Modes; R; Teen; Online Behavior, Social Media; Visualization; Categorical Attributes
+"
+541702,The-Development-of-Work-Instruction-as-a-Solution-to-Handl_2017_Procedia-Com.pdf,"The Development of Work Instruction as a Solution to Handle IT
+Critical Incidents in Units within an Organization",ISICO 2017,Procedia Computer Science,124,2017,"
+Febriliyan Samopa, Hanim Maria Astuti, Mahesti Ayu Lestari
+","
+In today???s business, it is almost impossible for any organization to close their eyes to the use of Information Technology (IT). The
+utilization of IT is usually given in a form of services called IT services which generally delivered not only for specific unit but for
+the whole organization. Institut Teknologi Sepuluh Nopember (ITS) is an academic institution which currently has 89 units. Even
+though IT services are provided and maintained by the ICT Directorate, IT local in each unit can use his discretion to develop his
+own IT initiatives. Ideally, the IT local should respond to any incident occurred in his unit before he escalates the incident to the
+directorate. Nevertheless, in most cases, IT locals pass through their own checking process while in fact, some incidents were
+originated from units. Thus, the ICT Directorate realizes the need to explore incidents that usually occurred in units and propose a
+solution to handle similar incidents happened in the future. This paper presents the work to identify major incidents which
+frequently occurred in units and from which propose Work Instructions (WI). The identification of incidents was conducted using
+Root-Causes Analysis while the categorization of major incidents was performed using Failure Modes, Effects and Critically
+Analysis. At the end, the WI for critical incidents were constructed. The result of the work is expected to be the guideline for IT
+locals in handling the IT problems and if it is possible, reduce the similar incidents in the future.
+","Incident Management; IT Services; Root Cause Analysis; FMECA; Work Instructions; IT Locals
+"
+541703,The-Development-of-Photovoltaic-Power-Plant-for-Electricity-_2017_Procedia-C.pdf,"The Development of Photovoltaic Power Plant for Electricity
+Demand Fulfillment in Remote Regional of Madura Island using",ISICO 2017,Procedia Computer Science,124,2017,"
+Talagq Terioxsathia, Oynantaral Eema Qaexsan ","
+The main problem of the electrical operational systems in Indonesia is how to maintain the continuity of effective and efficient
+services to the customers and meet the supply and demand for electrical power, particularly a lot of islands area in Indonesia are
+far distant from the power generation sources. Based on these problems, it is cleared that an electricity system is required for long-
+term solutions so that it can enhance the role of new and renewable energy, improve the electricity reliability and reduce the energy
+costs. Efficiency and effectiveness is expected to increase the sustainable electricity supply for remote and isolated area in Madura
+island by utilizing the available resources like potential solar energy as a new and renewable energy. The development of
+photovoltaic power plant is a fast and independent solution because the access and infrastructure in Madura island doesn???t support
+yet for the conventional electrical facilities. System dynamics method is used to analyse the system by creating a scenario model
+to identify any factors and variables which affect the system. As the result of the scenario model, total demand for electricity supply
+in the 58 remote villages in Pamekasan is 24,935 MW, which cost Rp 632.812.500.000,- for the photovoltaic power plant
+investment. To complete the analysis feasibility in order to meet the fulfilment, it is also considered economics aspect with Payback
+Period, which is need 25 years to return the investment in optimistic scenario.","System Dynamics; Scenario; Electrification Ratio; Photovoltaic Power Plant; Electricity Supply and Demand
+"
+541704,The-Effect-of-Social-Media-to-Cultural-Homecoming-Tradi_2017_Procedia-Comput.pdf,"The Effect of Social Media to Cultural Homecoming Tradition of
+Computer Students in Medan",ISICO 2017,Procedia Computer Science,124,2017,"
+Arif Ridho Lubis,Ferry Fachrizal, Muharman Lubis","
+Homecoming has become phenomenon and tradition in Indonesia that is famous called as Mudik. It normally happens during the
+feast day (Hari Raya), commonly at Idul Fitr or long weekends, mostly done by Muslim. The tradition of returning to hometown
+contains several dimensions such as spiritual, psychological and social as the implication of a cultural heteronomy. Most of them
+migrate to urban from rural area to get a higher education or to find a respected job, but they return to their hometown for a while
+to meet their parents or relatives or to show their success. On the other hand, social media has been growing vastly and become
+the normal channel and strong tool for the citizen to communicate and carry influential message among communities. Thus, this
+study wants to identify the effect of the social media use among university students, in this case is Medan towards homecoming
+tradition. This study focuses to computer students, as they are demographic type that frequent to utilize the benefit of social
+media as well have more knowledge about features and technical side of that tools. Respectively, there were 250 questionnaires
+distributed to student in three major campuses in Medan for the purpose of this study.
+","Homecoming; Social Media; Tradition; Statistic; Computer
+"
+541705,The-Existence-Of-Cryptography--A-Study-On-Instant-_2017_Procedia-Computer-Sc.pdf,"The Existence Of Cryptography: A Study On Instant Messaging
+
+",ISICO 2017,Procedia Computer Science,124,2017,"Vania Beatrice Liwandouw, Alz Danny Wowor","
+The use of smartphone for communication through the Instant Messaging (IM) application has become a dependency and trend
+model in society. Thus, choosing the right cryptography application to secure data in communicating becomes important. This
+study analyzes several cryptography applications running on android and iOS platforms, to provide recommendations for users
+regarding cryptography application that have passed the testing and are able to secure messages so that privacy and confidential
+communications can be achieved without having to prefer one IM only. The results of this study provided that the best recommended
+cryptography application that can be used on IM is Encrypt, followed by AES-Crypto, EnDe-Crypto, and Kryptokaz.
+",Cryptography; instant messaging; smartphone
+541706,The-impact-of-Knowledge-Management-on-Organizational-Prod_2017_Procedia-Comp.pdf,"The impact of Knowledge Management on Organizational
+Productivity: A Case Study on Koosar Bank of Iran",ISICO 2017,Procedia Computer Science,124,2017,"
+Fatemeh Torabi, Jamal El-Den","
+Knowledge is becoming a valuable asset for most organizations and the quest to manage this asset is gaining popularity among
+researchers and management. Organizational management???s main objective is to ensure effective and efficient use of its diverse
+resources such as labor, capital, materials, energy and information in their quest to achieve competitiveness as well as to increase
+productivity that must be managed. In today???s rapid technological change, companies are in constant struggle to maintain
+competitive advantage through market differentiation by providing superior products and services. The management in
+organizations is increasing their focus on employees??? know-how, past experiences and expertise in their quest to excel in
+achieving their goal. In short, Knowledge has become an integral asset for most organizational functionalities. Knowledge
+management promises to create the proper structure and the necessary technological infrastructure in organizations and human-
+driven placement. This research investigates the role of ???tacit??? knowledge sharing on organizational productivity. Accordingly, a
+framework was developed and hypotheses were drawn and tested where results demonstrated interesting insights into the role of
+sharing on organizational productivity. The survey, which was conducted at Koosa Bank of Iran, demonstrated that the
+employees??? intension to share and consequently the sharing of tacit knowledge has direct positive impacts on productivity. In
+addition, our analysis demonstrated that not only productivity would increase as a result of knowledge sharing, but also
+employees??? innovative contributions increased as a result of exposure to others??? knowledge, expertise, and experiences.","Knowledge Management; Productivity; Knowledge Culture; Tacit and Explicit Knowledge
+"
+541707,The-Moderation-Effect-of-Age-on-Adopting-E-Payment_2017_Procedia-Computer-Sc.pdf,"The Moderation Effect of Age on Adopting E-Payment Technology
+",ISICO 2017,Procedia Computer Science,124,2017,"Anggar Riskinanto, Bayu Kelana, Deliar Rifda Hilmawan
+","E-payment is one of the fin-tech solutions that has gained users from different generations. This is unique as it is known that
+distinctive generations may adopt technology differently. This study aimed to assess on how the adoption of an e-payment system
+differs on different generations using the quantitative method. We used TAM model moderated by age as the research model. Data
+was collected through an online questionnaire and successfully gathered 532 responses from application users. The findings showed
+that only perceived ease of use has a positive effect on perceived of usefulness, that was moderated by age. This result may provide
+a new perspective on how e-payment being adopted on Indonesian users.
+","e-payment, TAM, partial least square"
+541708,The-Organization-Factors-as-Barrier-for-Sustainable-Heal_2017_Procedia-Compu.pdf,"The Organization Factors as Barrier for Sustainable Health
+Information Systems (HIS) A Review",ISICO 2017,Procedia Computer Science,124,2017,"
+Noor Azizah Mohamadali, Nurul Aqilah Zahari
+","
+Health Information Systems (HIS) helps in coordinating various activities within hospital through effective and efficient services.
+Malaysian Government began to introduce HIS in 1999 to cover both clinical and non-clinical information systems. Since then
+hospitals have been facing challenges to achieve the objectives of its introduction. Thus, it is important to understand
+determinants for successful implementation in order to ensure sustainable HIS. Various determinants render successful
+implementation, such as human factors, technology factors as well as organizational factors. However, understanding
+organizational factors becomes important, since the systems runs within the organization itself. The other two factors; human and
+technology factors have been discussed elsewhere by the authors. Any issues pertaining to the organization if identified earlier
+will prevent implementation failure. Hence, this paper aims to provide a review of barriers associated with organization factors
+hindering the sustainability of HIS, and propose strategies required to minimize the issues discussed. Based on our review, this
+paper highlighted four main challenges from an organization perspective; high adoption cost, top management support, adequate
+infrastructure and security and privacy issues.
+","Hospital Information Systems; Barriers; High Adoption Cost;Top Management Support; Adequate Infrastructure, Security and Privacy
+"
+541709,The-Performance-of-Ant-System-in-Solving-Multi-Travel_2017_Procedia-Computer.pdf,"The Performance of Ant System in Solving Multi Traveling
+Salesmen Problem",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Eka N. Kencana, Ida Harini, K. Mayuliana
+","
+Multi Traveling Salesmen Problem (mTSP) is an extended situation of Traveling Salesman Problem (TSP) that is
+classified to combinatorial optimization problems. For many years, TSP has been employed to test the proposed algorithms that
+belong to meta heuristic techniques. This work is directed to study the performance of ant system (AS) to solve mTSP. This
+technique was simulated to determine a total shortest route for 5 to 10 salesmen who have to visit 10, 15, 20, 25, and 30 cities.
+The performance of AS is measured by observing the minimum distance resulted and the average completion time. Ten trials are
+made for every combination of salesman-city. The result showed that the minimum distance and the processing time of the AS
+increase consistently whenever the number of cities to visit increase. In addition, a different number of sales who visited certain
+number of cities proved significantly affect the running time of AS, but did not prove significantly affect the minimum distance.
+","Ant system; combinatorial optimization; mTSP; simulation.
+"
+541710,The-Performance-of-ARIMAX-Model-and-Vector-Autoregressive--_2017_Procedia-Co.pdf,"The Performance of ARIMAX Model and Vector Autoregressive
+(VAR) Model in Forecasting Strategic Commodity Price in",ISICO 2017,Procedia Computer Science,124,2017,"Wiwik Anggraenia, Kuntoro Boga Andrib, Sumaryanto, Faizal Mahananto","
+Rice as one of the strategic commodities has an important role in the life of Indonesian society. This is cause of rice is the main
+food of the Indonesian nation. Therefore, the stabilization of food prices is one of the priorities of the Indonesian government's
+policy. It can minimize the impact of the global financial crisis such as inflation and purchasing power of the poor. The sta
+bility price can be maintained by price forecasting for several periods ahead. It can be used to set up the anticipatory action. In
+this research, ARIMAX model and VAR model used to forecast the rice price. This model involves several variables including
+consumer rice price (HKB), production (PROD), dry milled rice (GKP), harvested area (LP), and rice price in Thailand
+(HD). The results show that ARIMAX model can predict the rice consumer price with MAPE 0.15%. This is 15.27 % better
+than VAR model. The GKP variable did not significantly affect to the rice price. This is indicated by the MAPE difference
+between model with GKP and model without GKP is less than 0.01%.
+","Forecasting; Arimax; Vector Autoregressive; Price; Strategic Commodity; Rice
+"
+541711,The-study-on-negative-eWOM-and-its-relationship-to-consum_2017_Procedia-Comp.pdf,"The study on negative eWOM and its relationship to consumer???s
+intention to switch Mobile Service Provider",ISICO 2017,Procedia Computer Science,124,2017,"Geetha Nadarajan, Jamil Bojei, Haliyana Khalid
+","
+Recent developments in social media has transformed consumer-brand trust relationship into consumer-consumer trust
+engagement where consumers make similar brand choices influenced by the opinion of other consumers. Consumers establish
+online networks and conversations embedded in trust, on similar tastes, viewpoints, preferences and other types of brand affinity
+behaviours. These online consumer conversations across multiple social media platforms contributes to voluminous electronic
+word-of-mouth (eWOM). An average of 70% of consumers look out for other consumers??? opinions on a brand to learn more
+about the products or services of interest and out of this consumer generated contents, a whopping 50% are consumer grouses or
+complaints. This study identifies emerging key mobile service consumption elements highlighted by consumers in discussion
+thread revolving a viral, negative eWOM through qualitative method of netnography. The study findings include eWOM contains
+multiple and relevant consumer behavioural contextual elements that may be leveraged upon to understand how negative eWOM
+influences mobile consumer switching intentions in Malaysia.
+","Word-of-Mouth; Electronic Word-of- Mouth; eWOM; Netnography; E-Commerce
+"
+541712,The-Technology-Factors-as-Barriers-for-Sustainable-Healt_2017_Procedia-Compu.pdf,"The Technology Factors as Barriers for Sustainable Health
+Information Systems (HIS) ??? A Review",ISICO 2017,Procedia Computer Science,124,2017,"
+Noor Azizah Mohamadali, Nur Faizah Ab Aziz","
+Information system is widely adopted in many fields including healthcare. Healthcare organizations now consider increased
+efficiency, improved patient care, quality of services, and safety. Hence Health Information System (HIS) is basically introduced
+to transform the traditional way of data collection and organization in hospitals, to a modern way of systematic collection,
+maintaining and dissemination of data. Its implementation is to support medical practitioners and administrative staff in securing
+patients??? health information in a digital-based record, to efficiently and effectively improve performance in the health system or
+any of its component parts. However, despite its numerous benefits, some of barriers still hinder its successful implementation
+and adoption, which needs to be addressed. This study discussed these barriers related to technology using the IS Success Model.
+This review paper becomes necessary in order to highlight the barriers that led to technical difficulties facing HIS
+implementation in hospitals, so as to suggest possible solutions that will improve services rendered in health industry based on
+findings.
+
+","Technological Factor; Health Information System; Barriers; IS Success Model Benefits; Information Quality, Service Quality,
+System Quality
+"
+541713,The-Use-of-Analytic-Hierarchy-Process-for-Software-Developm_2017_Procedia-Co.pdf,"The Use of Analytic Hierarchy Process for Software Development
+Method Selection: A Perspective of e-Government in Indonesia",ISICO 2017,Procedia Computer Science,124,2017,"
+Melisa Helingo, Betty Purwandari, Riri Satria, lis Solichah
+","
+Information Technology (IT) has played an important role at the Ministry of Foreign Affairs of the Republic of Indonesia
+(Kemlu). It provides e-government services to cut long bureaucracy and achieve priorities in foreign policies. As the organization
+grows, there are needs to develop new software in this e-government context. In general, it requires a software development
+standard procedure to meet software quality assurance. In Kemlu the standard procedure in software development becomes more
+critical due to frequent changes among IT team members. It is the nature of this organization to send their staffs to foreign
+countries for several years. Then they are back to home country for another couple of years, and get ready for their next
+assignments abroad. A fundamental step in a software development standard procedure is determining the most suitable software
+development method. However, there was lack of investigation for this selection. To address this problem, a study using Analytic
+Hierarchy Process (AHP) is conducted. The factor variables are personnel, requirements, applications, organizations, businesses,
+operations, and technology. The alternatives of software development methods are Waterfall, Incremental, Prototyping, Extreme
+Programming, Scrum, and Rational Unified Process. The results show that Prototyping is the fittest software development
+method for Kemlu.
+","Software Development Process; Software Development Method: Analytic Hierarchy Process; e-Government
+"
+541714,The-Utilization-of-Filter-on-Object-based-Opinion-Mini_2017_Procedia-Compute.pdf,"The Utilization of Filter on Object-based Opinion Mining in
+Tourism Product Reviews",ISICO 2017,Procedia Computer Scienc,124,2017,"
+Aris Tjahyanto, Bonda Sisephaputra
+","
+The quality of a tourism products can be assessed using several aspects or objects due to their unique characteristics. The
+information related to the object can be extracted using object-based opinion mining. Based on the previous research, the
+implementation of Natural Language Processing (NLP) rules on object-based opinion mining for determining the orientation of the
+semantic objects showed good result. However, the performance of the objects extraction should be improved. In this study,
+researchers apply a filter on the objects??? extraction process of the hotel and restaurant review data. The utilization of data filter in
+object-based opinion mining succeeded in obtaining better objects??? extraction result due to the utilization of filter that eliminate
+the unrelated object. The application of filter in the process of objects extraction improve the precision of frequent object approach
+from 45.7% to 64.49% on of the hotel review and from 44.82% to 64.61% on the restaurant review. For frequent and infrequent
+approach, the precision was increased from 22.33% to 63.02% on the hotel review and from 21.6% to 65.4% on the restaurant
+review. For overall extracted object, the usage of filter got better result compared to non-filter classification process. The filtered
+object approach gave 56.85% accuracy, 60.91% precision, and 79.93% recall on the hotel review, and got 58.85% accuracy, 63.26%
+precision, and 84.14% recall on the restaurant review.
+","Object-Based Opinion Mining, Opinion Mining, Sentiment Analysis, Tourism, Hotel, Restaurant
+"
+541715,Tracking-People-by-Detection-Using-CNN-Feature_2017_Procedia-Computer-Scienc.pdf,"Tracking People by Detection Using CNN Features
+",ISICO 2017,Procedia Computer Science,124,2017,"Dina Chahyati, Mohamad Ivan Fanany, Aniati Murni Arymurthy","Multiple people tracking is an important task for surveillance. Recently, tracking by detection methods had emerged as immediate
+effect of deep learning remarkable achievements in object detection. In this paper, we use Faster-RCNN for detection and compare
+two methods for object association. The first method is simple Euclidean distance and the second is more complicated Siamese
+neural network. The experiment result show that simple Euclidean distance gives promising result as object association method,
+but it depends heavily on the robustness of detection process on individual frames
+",Multiple Object Tracking; Faster-RCNN; Convolutional Neural Network; Siamese Neural Network
+541716,Understanding-of-Public-Behavioral-Intent-to-Use-e-Government_2017_Procedia-.pdf,"Understanding of Public Behavioral Intent to Use e-Government
+Service: An Extended of Unified Theory of Acceptance Use of
+",ISICO 2017,Procedia Computer Science,124,2017,"
+Rarlilanga Tanwra Danaina, Niarfaigah","
+This study aimed to assess the factors that influence public behavior towards e-government service in Indonesia. The model used
+in this study was UTAUT which this model we have enriched with the addition of ISQ extracted from two dimensions of credibility
+and usability. Total respondents were 279 validated, the method used in evaluating the sampling data was Structural Equation
+Modeling (SEM). From the result of the hypothesis, it was found that all existing hypotheses showed a significant, valid relationship
+and positive value.
+",e-Government; ISQ; UTAUT Model
+541717,Typosquat-Cyber-Crime-Attack-Detection-via-Smart_2017_Procedia-Computer-Scie.pdf,"Typosquat Cyber Crime Attack Detection via Smartphone
+",ISICO 2017,Procedia Computer Science,124,2017,"Zakiah Zulkefli, Manmeet Mahinderyit Singh, Azizul Rahman Mohd Shariff, Azman Samsudin","
+A Smartphone is a multi-purpose device that can act as both mediums of communications and entertainment due to the availability
+of various sensors and services, such as SMS, NFC and Bluetooth. Through these functionalities, Smartphone owner can exchange
+information to each other by sharing links or even files. However, an attacker see these as an advantage to perform an Advanced
+Persistent Threat (APT) attack. APT is an attack which incorporates both social engineering attack and malware. In this paper, the
+authors will shed light on how APT attack through spear phishing can occur in Smartphone and how to detect it. First, the authors
+will examine the tactics that can be used by the attacker to perform a successful social engineering attack. Then, based on the
+discussion that has been made, the authors have used a machine learning algorithm to classify whether a certain URL is a phish or
+not. Lastly, the authors have evaluated the propose technique using machine learning and obtained more than 90% accuracy. This
+proves , that the proposed technique would able to help mitigating APT attack through spear phishing in the Smartphone.
+","Advanced Persistent Threat (APT); Cyber Crime; Typosquat; Smart Phone: Decision Tree
+"
+541718,Understanding-the-Implementation-of-Telerehabilitation-at-_2017_Procedia-Com.pdf,"Understanding the Implementation of Telerehabilitation at Pre-
+Implementation Stage: A Systematic Literature Review",ISICO 2017,Procedia Computer Science,124,2017,"
+Tiara Izrinda Jafni, Mahadi Bahari, Waidah Ismail, Abduljalil Radman
+","
+Despite the increased interest of academic scholar in telerehabilitation implementation, there is a scarcity of studies
+that provide an up to date comprehensive research on it. This study provides a systematic literature review (SLR) on
+telerehabilitation implementation research. This review explores the processes involved in telerehabilitation
+implementation, research themes and the factors that influence the implementation of telerehabilitation at pre-
+implementation stage. In doing this, all relevant articles in the electronic databases of Scopus, ScienceDirect, PubMed,
+SAGE and Web of Science that published from 2007 to 2017 were reviewed. The results show that four themes have
+been paid attention by the researchers??? including adoption, benefits, readiness and decision making. The factors in the
+adoption and readiness were found more dominant than others with seven and six factors respectively. Most of the
+factors from adoption were in the quality aspects (e.g., system quality, information quality and service quality) while
+change elements (e.g., attributes of the change, attributes of the change targets) in the readiness. Thus, this study
+suggests that more research is needed for understanding this complex process of telerehabilitation at pre-
+implementation in a more holistic manner","Telerehabilitation, Telerehabilitation Implementation; Systematic Literature Review (SLR); Pre-implementtaion
+"
+541719,Understanding-the-Quality-Gap-of-Information-Technology-Se_2017_Procedia-Com.pdf,"Understanding the Quality Gap of Information Technology Services
+from the Perspective of Service Provider and Consumer",ISICO 2017,Procedia Computer Science,124,2017,"
+Anisah Herdiyanti, Alitya Novianda Adityaputri, Hanim Maria Astuti","
+Direktorat Pengembangan Teknologi Informasi (DPTSJ is the provider of information technology services in Institut Teknologi
+Sepuluh Nopember (ITS). Although IT services provided by DPTSI have been managed according to its technical standard, there
+has been a gap of what service consumers expect and what service consumers perceive. This situation refers to the gap of service
+quality that may lead to unsatisfied service consumers. This study focuses on understanding the quality gap of IT services from the
+perspective of service provider ??? that is DPTSI staffs, and of service consumers ??? that are lecturers and students. A gap analysis
+based on Parasuraman works was employed. From the perspective of service provider, a gap between service quality specifications
+and service delivery (GAP 3) was identified; whereas from the perspective of service consumers, a gap between expected and
+perceived service (GAP 5) was analyzed by employing SER VQUAL Dimensions. From the analysis, we found that the highest gap
+lies on the domain and hosting services due to relatively sophiscated technology and unclear flows of the service requests. From
+internal DPTSI, staffs agreed that control systems are the most common problem in their work. Some recommendations are
+proposed, e.g. developing a standard operating procedure for domain and hosting services, and allocating staffs according to their
+capability. At the end, the research contributes to the implementation of gap analysis, and more specifically to improve the quality
+of IT services in DPTSI.
+","Information Technology Services; Service Quality; Gap; Service Provider; Service Consumer
+"
+541720,Understanding-the-Total-Value-of-Information-Technology-Se_2017_Procedia-Com.pdf,"Understanding the Total Value of Information Technology Services
+from the Perspective of Students and Academic Staffs",ISICO 2017,Procedia Computer Science,124,2017,"
+Anisah Herdiyanti, Nanda Restanena Listyawati, Hanim Maria Astuti
+","
+Today service providers are more focused on the value produced by delivering information technology (IT) services, rather than
+focused on the procurement of IT services. The value from the two perspectives: service providers and service consumers,
+contribute to the total value of IT services namely Total Value Orientation (TVO). This study focuses on understanding the total
+value of a key operational service in educational sector, i.e. academic online (SIM Akademik), from the perspective of academic
+staffs as service provider, and students as service consumers. The goal of this study is to find factors that contribute to the delivery
+of value from each perspective. In order to find those factors, a conceptual model of TVO was adopted and implemented by
+collecting data using different questionnaire assessments for each perspective. Then the questionnaire results served as inputs for
+understanding the relationships between factors on the conceptual model by applying the partial least square (PLS) technique using
+SmartPLS software. This study results in factors that are perceived well by students and academic staffs. Students understands that
+service quality is the most important factor while academic staffs understands that technology transfer factor is important for the
+delivery of service value of academic online (SIM Akademik). Some recomendations are proposed, e.g. optimizing the capacity of
+server infrastructure and managing access schedule for users when performing course enrollments in order to minimize the impacts
+from server down due to many users accessing SIM Akademik.
+","Information Technology Services; Total Value Orientation; Service Provider, Service Consumer
+"
+541721,Usability-Evaluation-to-Enhance-Software-Quality-of-Cultur_2017_Procedia-Com.pdf,"Usability Evaluation to Enhance Software Quality of Cultural
+Conservation System Based on Nielsen Model (WikiBudaya)",ISICO 2017,Procedia Computer Science,124,2017,"
+Feby Artwodini Mugqtadiroh, Hanim Maria Astuti, Eko Wahyu Tyas Darmaningrat, Fenty Rizky Aprilian","
+WikiBudaya is a web-based encyclopedia application specifically processing information and knowledge on Indonesian culture in
+forms of articles. It is managed by the Department of Culture and Tourism in East Java Province, Indonesia (DISBUDAPAR
+JATIM). In the process of its development, the required software quality is not yet controlled. Consequently, WikiBudaya is not
+yet officially released in accordance with software development life cycle (SDLC). Accordingly, it is necessary to evaluate it by
+means of software quality control, specifically focused on a usability aspect, i.c.: component of non-functional need to assess the
+website success. WikiBudaya usability evaluation is based on Nielson Model by adopting user testing method with descriptive
+statistic data for interpreting the usability quality evaluation. Next, to draw comprehensive results, the result of hypothesis testing
+is followed up with conclusion of final results in form of recommendations for WikiBudaya website enhancement in order to
+facilitate better usability by the users and sustainable development.
+","website encyclopedia; Indonesian culture; usability evaluation; software quality control; user testing; Nielsen Model; heuristic evaluation
+"
+541722,Usable-Security--Revealing-End-Users-Comprehensions-_2017_Procedia-Computer-.pdf,"Usable Security: Revealing End-Users Comprehensions on Security
+Warnings",ISICO 2017,Procedia Computer Science,124,2017,"
+Ammar Amran, Zarul Fitri Zaaba, Manmeet Mahinderyit Singh, Abdalla Wasef Marashdih","
+Security warning is a form communication between user and computer to inform the users on the risk of allowing random
+applications to run on the computer system. Security warning is designed to warn the users such as notify, inform and advice users
+about the consequence effect of an action. However, computer user s tend to ignore security warning duc to the lack of attentions,
+did not understand the meaning of the warnings, difficulties on the technical jargon used, lack of motivation and users become
+habituated to security warning. Therefore, a survey was mounted online utilising 156 participants to investigate and to understand
+further general understanding of user???s perceptions on security warnings. This paper describes two main findings utilising Chi-
+Square and Cramer???s V test. The findings suggested that in all three scenarios, the results were not statistically significant. However,
+results portrayed in Cramer???s V test were in a better outlook. The result indicates on the need to look closely on each variable
+involves within the study sampling to improve the security warnings.
+","Security Warning; Chi Square; Cramer???s V Test; Usability; Usable Security; Human Computer Interaction.
+"
+541723,User-Satisfaction-and-Intention-to-Use-Peer-to-Peer-Onli_2017_Procedia-Compu.pdf,"User Satisfaction and Intention to Use Peer-to-Peer Online
+Transportation: A Replication Study",ISICO 2017,Procedia Computer Science,124,2017,"
+Adhi Setyo Santoso, Liza Agustina Maureen Nelloh
+","
+Sharing economy or collaborative economy (e.g. renting and lending) has been identified in previous studies to better
+understanding the behavioral context such as satisfaction and future intention for hospitality accommodation. However, the
+findings are lack of generalization in other industry context. Therefore, as the phenomenon of peer-to-peer (P2P) online
+transportation in Indonesia, this article replicates the previous study by Tussyadiah (2016) to test consumers??? satisfaction and
+future intention in different industry context for generalization purposes. Using Structural Equational Modelling approach, the
+results among 115 respondents conclude that enjoyment and economic benefit are the determinations of satisfaction while
+satisfaction itself mediates those variables toward future intention. This study concludes that some of the findings about
+determinant factors of customer satisfaction future intention on P2P accommodation context can be generalized for other
+industrial context such as P2P online transportation context even though there are some differences of findings especially in the
+antecedents of future intention.
+","Sharing Economy; e-Commerce; Online Transportation; Customer Satisfaction; Future intention; Consumer behaviour
+"
+541724,User-Acceptance-of-e-Government-Citizen-Report-System-_2017_Procedia-Compute.pdf,"User Acceptance of e-Government Citizen Report System
+(a Case Study of City113 App)",ISICO 2017,Procedia Computer Science,124,2017,"
+Tony Dwi Susanto, Made Mira Diani, Irmasari Hafidz
+","
+
+The aim of this study is to understand the factors that drive what citizen???s intention to use the City113 mobile application, an e-
+government system for citizen report. Initially, a preliminary an open-ended questions survey has been conducted to explore what
+factors motivate citizens to use the City113. The findings factors were compared to existing prominent technology adoption
+models (including TAM, DOI, UTAUT, TRA, TPB, and DTPB) and suggested the Decomposed Theory of Planned Behavior
+(DTPB) model with a new construct specific to gamification called playfulness is the most suitable model for representing user
+acceptance of the e-government citizen report application. We perform the analysis using SPSS and SmartPLS for validity and
+reliability test and inferential analysis for validating the model. The data were collected using questionnaire targeting citizens in 7
+sub-districts of Surabaya city. The number of sample size is calculated using Slovin formula collecting 156 valid responses. This
+study suggests that the most significant determinant of user???s intention to use the City113 mobile application is attitude (R? =
+0.435, t=5.238). There are only two factors influencing the attitude towards using the City113: Perceived Ease of Use and
+Perceived Usefulness. Citizens may have a positive or negative fecling towards using an e-government citizen report system
+mainly influenced by their perceptions on whether the system is easy to use and whether the system will deliver benefits for them
+or not.
+","User Intention, Mobile Apps, Decomposed Theory of Planned Behavior, DTPB, City113, Citizen Report Systems, Smart City
+"
+541725,Users--Motivation-in-Sharing-Information-on-Socia_2017_Procedia-Computer-Sci.pdf,Users Motivation in Sharing Information on Social Media,ISICO 2017,Procedia Computer Science,124,2017,"Afira Putri Ghaisani, Putu Wuri Handayani, Qorib Munajat","This study discusses the motivation of information sharing activities in social media. Types of information reviewed are personal,
+sensational, political, casual, and experience. Social media categories reviewed are social networking sites, microblogging sites,
+wikis, online blogs, and online forums. Responses from 255 respondents were processed using descriptive statistical methods.
+The results show that one's motivation in sharing information tends to be consistent for cach type of information, that is to share
+the impression of social media users on a matter.
+",user motivation; type of information; information sharing; social media
+541726,WebGIS-for-Asset-Management-of-Land-and-Building-of-M_2017_Procedia-Computer.pdf,"WebGIS for Asset Management of Land and Building of Madiun
+City Government",ISICO 2017,Procedia Computer Science,124,2017,"R.V. Hari Ginardi, Wawan Gunawan, Septiawan Rosetya Wardana
+","
+The detailed basemap of Madiun City, known as RDTR and RTRW has been developed in 2016 and approved by
+Indonesian Geospatial Information Agency (BIG). This detailed and accurate digital map is supposed to be used by
+Madiun City Development Planning Agency (Bappeda) and other units in Madiun City Government as their reference
+map. Several digital maps are being developed on top of this reference map, including the Madiun City Asset map
+which record all buildings and land areas owned by the Madiun City Government. To improve the usability and
+functionality of this asset map, an asset management system, based on WebGIS is proposed. In this WebGIS, city
+assets of land and buildings are coded and organized in a web-based application for a better management, and it can
+be accessed by public easily and quickly. The system development method is the Waterfall. ArcGIS Map is used as
+an online map platform for the visualization map of land and building asset in Madiun City. The current asset map
+contains more than 400 asset data with 17 categories. This WebGIS asset management system supports the smart
+governance in Madiun City toward the development of Madiun Smartcity.
+","Land and Building Asset; Smart Governance; Geographic Information System; ArcGIS WebMap
+"
